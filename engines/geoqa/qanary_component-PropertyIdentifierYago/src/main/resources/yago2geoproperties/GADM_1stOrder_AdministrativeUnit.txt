@@ -1,0 +1,7 @@
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_ID , OSM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name , OSM Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_ID , GADM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name , GADM Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_NationalLevel , GADM NationalLevel
+http://www.opengis.net/ont/geosparql#sfTouches , Touches
+strdf:area, area

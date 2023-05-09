@@ -1,0 +1,30 @@
+class,label,gloss
+http://kr.di.uoa.gr/yago2geo/ontology/hasReligion,religion,The kind of religion supported in the place of worship.
+http://kr.di.uoa.gr/yago2geo/ontology/hasDenomination,denomination,a recognized autonomous branch of the Christian Church.
+http://kr.di.uoa.gr/yago2geo/ontology/hasAddress,address,The address of a place or building.
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_ID,id,OSM (openstreetmap) identifier
+http://kr.di.uoa.gr/yago2geo/ontology/hasWikipedia,wikipedia,Wikipedia link associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasWikidata,wikidata,Wikidata link associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasWebsite,website,Website associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasInternetAccess,internet access,"Internet access available or not, sometime with detailed information."
+http://kr.di.uoa.gr/yago2geo/ontology/hasPhone,phone number,phone number associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasPhone,cell,phone number associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasPhone,phone,phone number associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasSmoking,smoking,"Whether smoking allowed inside, outside or prohibited."
+http://kr.di.uoa.gr/yago2geo/ontology/hasWheelchair,wheelchair,Wheelchair access situation.
+http://kr.di.uoa.gr/yago2geo/ontology/hasOpeningHours,opening hours,"The hours a place, a business place or shopping mall functioning (open) in a day."
+http://kr.di.uoa.gr/yago2geo/ontology/hasEmail,email,email associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasAccess,access,Whether the place is private or public. Access control for the property or place.
+http://kr.di.uoa.gr/yago2geo/ontology/hasCuisine,cuisine,"A cuisine is a style of cooking characterized by distinctive ingredients, techniques and dishes, and usually associated with a specific culture or geographic region. Regional food preparation traditions, customs and ingredients often combine to create dishes unique to a particular region."
+http://kr.di.uoa.gr/yago2geo/ontology/hasBuildingMaterial,building material,The type of material used to construct a building.
+http://kr.di.uoa.gr/yago2geo/ontology/hasPopulation,population,"Number of people living in an area, population of a place."
+http://kr.di.uoa.gr/yago2geo/ontology/hasLanduse,land use,land use (landuse) type of a place.
+http://kr.di.uoa.gr/yago2geo/ontology/hasHeight,elevation,elevation or height of a building or a place.
+http://kr.di.uoa.gr/yago2geo/ontology/hasHeight,height,elevation or height of a building or a place.
+http://kr.di.uoa.gr/yago2geo/ontology/hasTwitter,twitter,"Twitter account associated with an organization,"
+http://kr.di.uoa.gr/yago2geo/ontology/hasFood,food,The type of food provided in a restaurant.
+http://kr.di.uoa.gr/yago2geo/ontology/hasArea,area,Area of the building or place.
+http://kr.di.uoa.gr/yago2geo/ontology/hasFax,fax,Fax number associated with the place or organization.
+http://kr.di.uoa.gr/yago2geo/ontology/hasGardenType,garden type,The type of garden.
+http://kr.di.uoa.gr/yago2geo/ontology/hasCapacity,capacity,"Number of people in a stadium or place, or number of car parks."
+http://kr.di.uoa.gr/yago2geo/ontology/hasYearBuilt,start date,Year in which the place is constructed or functioned.

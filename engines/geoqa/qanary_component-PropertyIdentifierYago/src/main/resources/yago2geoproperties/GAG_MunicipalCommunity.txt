@@ -1,0 +1,3 @@
+http://kr.di.uoa.gr/yago2geo/ontology/GAG_BelongsTo , GAG BelongsTo
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Name , GAG Name
+strdf:area, area

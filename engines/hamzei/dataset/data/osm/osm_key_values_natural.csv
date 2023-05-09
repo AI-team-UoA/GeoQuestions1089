@@ -1,0 +1,102 @@
+key,value,description
+natural,wood,"Tree-covered area (a 'forest' or 'wood'). Also see landuse=forest. For more detail, one can use leaf_type=* and leaf_cycle=*."
+natural,tree_row,A line of trees.
+natural,tree,A single tree.
+natural,scrub,"Uncultivated land covered with shrubs, bushes or stunted trees."
+natural,heath,"A dwarf-shrub habitat, characterised by open, low growing woody vegetation, often dominated by plants of the Ericaceae."
+natural,moor,"Don't use, see wikipage. Upland areas, characterised by low-growing vegetation on acidic soils."
+natural,grassland,"Areas where the vegetation is dominated by grasses (Poaceae) and other herbaceous (non-woody) plants. For mown/managed grass see landuse=grass, for hay/pasture see landuse=meadow."
+natural,fell,"Habitat above the tree line covered with grass, dwarf shrubs and mosses."
+natural,tundra,"Habitat above tree line in alpine and subpolar regions, principally covered with uncultivated grass, low growing shrubs and mosses and sometimes grazed."
+natural,bare_rock,"An area with sparse or no vegetation, so that the bedrock becomes visible."
+natural,scree,Unconsolidated angular rocks formed by rockfall and weathering from adjacent rockfaces.
+natural,shingle,An accumulation of rounded rock fragments on a beach or riverbed
+natural,sand,An area covered by sand with no or very little vegetation. See natural=beach and natural=dune as well.
+natural,mud,Area covered with mud: water saturated fine grained soil without significant plant growth. Also see natural=wetland + wetland=* if the surfaces are unknown.
+natural,water,"Any body of water, from natural such as a lake or pond to artificial like moat or canal. Also see waterway=riverbank"
+natural,wetland,"A natural area subject to inundation or with waterlogged ground, further specified with wetland=*"
+natural,glacier,A permanent body of ice formed naturally from snow that is moving under its own weight.
+natural,bay,An area of water mostly surrounded by land but with a level connection to the ocean or a lake.
+natural,cape,"A piece of elevated land sticking out into the sea or large lake. Includes capes, heads, headlands and (water) promontories."
+natural,strait,A narrow area of water surrounded by land on two sides and by water on two other sides.
+natural,beach,"landform along a body of water which consists of sand, shingle or other loose material"
+natural,coastline,The mean high water springs line between the sea and land (with the water on the right side of the way.)
+natural,reef,"A feature (rock, sandbar, coral, etc) lying beneath the surface of the water"
+natural,spring,A place where ground water flows naturally from the ground (Other languages).
+natural,hot_spring,A spring of geothermally heated groundwater
+natural,geyser,A spring characterized by intermittent discharge of water ejected turbulently and accompanied by steam.
+natural,peak,The top (summit) of a hill or mountain.
+natural,dune,"A hill of sand formed by wind, covered with no or very little vegetation. See also natural=sand and natural=beach."
+natural,hill,A hill.
+natural,volcano,An opening exposed on the earth's surface where volcanic material is emitted.
+natural,valley,node A natural depression flanked by ridges or ranges of mountains or hills
+natural,ridge,A mountain or hill linear landform with a continuous elevated crest
+natural,arete,"An arête, a thin, almost knife-like, ridge of rock which is typically formed when two glaciers erode parallel U-shaped valleys."
+natural,cliff,"A vertical or almost vertical natural drop in terrain, usually with a bare rock surface (leave the lower face to the right of the way)."
+natural,saddle,The lowest point along a ridge or between two mountain tops
+natural,isthmus,"A narrow strip of land, bordered by water on both sides and connecting two larger land masses."
+natural,peninsula,"A piece of land projecting into water from a larger land mass, nearly surrounded by water"
+natural,rock,A notable rock or group of rocks attached to the underlying bedrock.
+natural,stone,"A single notable freestanding rock, which may differ from the composition of the terrain it lies in.; e.g., glacial erratic."
+natural,sinkhole,A natural depression or hole in the surface topography.
+natural,cave_entrance,The entrance to a cave: a natural underground space large enough for a human to enter.
+waterway,river,"A river is a wide, natural watercourse that flows from a source to an ocean, sea, lake or another river. For narrow naturally-formed waterways, see waterway=stream."
+waterway,riverbank,"Sometimes used for larger rivers in addition to waterway=river, to define an area between the opposite riverbanks. Also see water=river with natural=water."
+waterway,stream,"A naturally-formed waterway that is too narrow to be classed as a river. An active, able-bodied person should be able to jump over it."
+waterway,tidal_channel,A natural tidal waterway within the coastal marine environment with bi-directional flow of salty water which depends on the tides.
+waterway,canal,"An artificial open flow waterway used to carry useful water for transportation, waterpower, or irrigation. (Other languages)."
+waterway,pressurised,"A waterway where water is flowing in a fully enclosed conduit and subject to pressure; this includes gravity-driven penstocks and siphons and pump-driven pipelines, for example."
+waterway,drain,"An artificial free flow waterway used for carrying superfluous water like storm water or industrial discharge, usually lined with concrete, stones or similar."
+waterway,ditch,"An small artificial free flow waterway used for carrying superfluous water for drainage purposes, usually unlined."
+waterway,fairway,A navigable route in a lake or sea marked by buoys. The navigable area marked by the buoys can be mapped with seamark:type=fairway.
+waterway,fish_pass,"A  fish pass, also known as a fish ladder, a fishway or fish steps, is a structure on or around artificial barriers (such as dams and locks) to facilitate diadromous fishes natural migration."
+waterway,dock,An 'enclosed' area of water used for building or repairing ships.
+waterway,boatyard,"Boat yard – a place for constructing, repairing and storing vessels out of the water."
+waterway,dam,A wall built across a river or stream to impound the water. A dam normally does not have water flowing over the top of it.
+waterway,weir,A barrier built across a river to control speed and depth. Water can still flow over the top.
+waterway,waterfall,"A waterfall, use in combination with natural=cliff"
+waterway,rapids,"A natural barrier, formed by a fast-flowing, often turbulent, section of the watercourse."
+waterway,lock_gate,"To mark the position of gates at each end of a lock. Alternatively, for smaller locks use a single lock=yes node in the middle of the lock."
+water,river,The water area of a river. Should contain waterway=river way inside.
+water,lake,"A lake: a body of relatively still fresh or salt water, localized in a basin that is surrounded by land. Artificially created lakes should instead be tagged as water=pond or water=reservoir. Intermittent lakes (which disappear seasonally) should be tagged with intermittent=yes; salt lakes — with salt=yes."
+water,stream,The water covered area of a stream: a naturally-formed watercourse which is narrower than a river
+water,oxbow,An oxbow lake: U-shaped body of water formed when a wide meander from the main stem of a river is cut off to create a lake.
+water,lagoon,A lagoon: a body of shallow sea water or brackish water separated from the sea by some form of barrier. It's better to specify saltness of water with salt=yes/no.
+water,stream_pool,"A stream pool; a small and usually deep collection of fresh water, occurring along a stream. Water velocity in the pool is typically much lower than in the stream. Frequently found below a waterfall. May be used as a ""swimming hole""."
+water,rapids,"A fast-flowing, often turbulent, section of a watercourse such as a river, often containing exposed rocks or boulders. This tag is only for mapping rapids area. Rapids still have to be mapped on river centerline, see waterway=rapids and for more rapids properties whitewater:rapid_grade=*."
+water,reservoir,"A reservoir or an artificial lake is used to store water. Usually formed by a dam over a natural water course, water then backs up into a natural valley or depression. Also see landuse=reservoir"
+water,basin,An area of land artificially graded to hold water. For more details you can use basin=*. Also see the much more common tag landuse=basin
+landuse,commercial,"Predominantly commercial businesses and their offices. Commercial businesses which sell goods should be categorised as landuse=retail. Commercial businesses can sell services on site and may include private Doctor's Surgeries, and those non-government services for mental and physical health, such as a Counsellor's or Physiotherapist's practice or Veterinary. Government services and businesses should not use this tag. Commercial businesses can also include office buildings and business parks which have limited interface with the public and sell their services either on site, or externally. Commercial businesses have low amounts of public foot traffic."
+landuse,education,An area predominately used for educational purposes/facilities.
+landuse,industrial,"Predominantly industrial landuses such as workshops, factories, or warehouses."
+landuse,residential,"Land where people reside; predominantly residential detached (single houses, grouped dwellings), or attached (apartments, flats, units) dwellings. For ""Mixed-Use"" areas where more than half of the land is residential, tag as residential."
+landuse,retail,"Predominantly retail businesses such as shops. Retail businesses sell physical goods such as food (prepared or grocery), clothing, medicine, stationary, appliances, tools, or other similar physical items. Retail businesses have high amounts of public foot traffic. Retail businesses do not exclusively provide or sell their services. For businesses which sell services see landuse=commercial."
+landuse,allotments,A piece of land given over to local residents for growing vegetables and flowers.
+landuse,farmland,"An area of farmland used for tillage (cereals, vegetables, oil plants, flowers)."
+landuse,farmyard,"An area of land with farm buildings like farmhouse, dwellings, farmsteads, sheds, stables, barns, equipment sheds, feed bunkers, etc. plus the open space in between them and the shrubbery/trees around them."
+landuse,flowerbed,An area designated for flowers
+landuse,forest,Managed forest or woodland plantation (Other languages). Some use this to map an area of trees rather than the use of the land. See Forest.
+landuse,meadow,"A meadow or pasture: land primarily vegetated by grass and non-woody plants, mainly used for hay or grazing"
+landuse,orchard,intentional planting of trees or shrubs maintained for food production
+landuse,vineyard,A piece of land where grapes are grown.
+landuse,basin,An area artificially graded to hold water.
+landuse,brownfield,Describes land scheduled for new development where old buildings have been demolished and cleared
+landuse,cemetery,Place for burials. You can add religion=* (values listed in the place of worship page). Smaller places (e.g. with a church nearby) may use amenity=grave_yard instead.
+landuse,conservation,"Protected areas (deprecated) Alternate tagging of same thing: boundary=protected_area, protected_area=*"
+landuse,depot,"An area used as a depot for e.g. vehicles (trains, buses or trams). Consider using rather standard landuse tags like landuse=railway, landuse=commercial, landuse=industrial, with subtag like industrial=depot."
+landuse,garages,"One level buildings with boxes commonly for cars, usually made of brick and metal. Usually this area belong to garage cooperative with own name, chairman, budget, rules, security, etc."
+landuse,grass,"An area of mown and managed grass. Some view this as not a landuse, see the main page landuse=grass for information."
+landuse,greenfield,Describes land scheduled for new development where there have been no buildings before. A greenfield is scheduled to turn into a construction site
+landuse,greenhouse_horticulture,Area used for growing plants in greenhouses
+landuse,landfill,Place where waste is dumped.
+landuse,military,For land areas owned/used by the military for whatever purpose
+landuse,plant_nursery,intentional planting of plants maintaining for the production of new plants
+landuse,port,coastal industrial area where commercial traffic is handled. Consider using landuse=industrial + industrial=port for this type of industrial area.
+landuse,quarry,Surface mineral extraction
+landuse,rail,"Area for railway use, generally off-limits to the general public"
+landuse,recreation_ground,"An open green space for general recreation, which may include pitches, nets and so on, usually municipal but possibly also private to colleges or companies"
+landuse,religious,An area used for religious purposes
+landuse,reservoir,A Reservoir on Wikipedia. Less popular variant of natural=water + water=reservoir. See also the approved water details proposal and pointers to discussion on talk page.
+landuse,salt_pond,A place where sea water is evaporated to extract its salt
+landuse,village_green,"An area of common land, usually grass, in the centre of a village (quintessentially English – defined separately from 'common land' under the Commons Registration Act 1965 and the Commons Act 2006)."
+landuse,winter_sports,An area dedicated to winter sports (e.g. skiing)

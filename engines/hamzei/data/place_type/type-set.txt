@@ -1,0 +1,2430 @@
+car park
+car parks
+parkings
+parking
+council area
+council areas
+national park
+national parks
+department store
+department stores
+capital
+capitals
+football stadium
+football stadiums
+university college
+university colleges
+modern art museum
+modern art museums
+train station
+train stations
+metropolitan county
+metropolitan counties
+royal borough
+royal boroughs
+airfield
+airfields
+historic building
+historic buildings
+Greek restaurant
+Greek restaurants
+Welsh districts
+Welsh district
+gas station
+gas stations
+country councils
+country council
+non metropolitan counties
+non metropolitan county
+main railway stations
+main railway station
+historical monuments
+historical monument
+medieval castles
+medieval castle
+Scottish county
+Scottish counties
+art museum
+art museums
+county council
+county councils
+summits
+summit
+gates
+gate
+uplands
+upland
+inns
+inn
+restaurants
+restaurant
+fords
+ford
+cabins
+cabin
+hotels
+hotel
+bridges
+bridge
+pubs
+pub
+aquaria
+aquarium
+aquariums
+aquarium
+airports
+airport
+highlands
+highland
+roads
+road
+deserts
+desert
+streets
+street
+stadiums
+stadium
+highways
+highway
+hometowns
+hometown
+forts
+fort
+frontiers
+frontier
+campgrounds
+campground
+zoos
+zoo
+resorts
+resort
+campuses
+campus
+seaports
+seaport
+allotments
+allotment
+archipelagos
+archipelago
+archipelagoes
+archipelago
+atolls
+atoll
+boroughs
+borough
+cities
+city
+continents
+continent
+countries
+country
+counties
+county
+districts
+district
+farms
+farm
+pistes
+piste
+hamlets
+hamlet
+islands
+island
+islets
+islet
+localities
+locality
+municipalities
+municipality
+neighbourhoods
+neighbourhood
+oceans
+ocean
+provinces
+province
+regions
+region
+seas
+sea
+squares
+square
+states
+state
+suburbs
+suburb
+malls
+mall
+shopping mall
+shopping malls
+shopping center
+shopping centers
+shopping centre
+shopping centres
+shopping store
+shopping stores
+accountant office
+accountant
+advertising agency
+advertising agency office
+architect
+architect office
+association
+NGO association
+Non-profit association
+company
+consulting
+consulting office
+courier
+courier company
+coworking
+shared workspace
+educational institution
+university
+employment agency
+energy supplier
+engineering office
+estate agent
+real estate
+financial company
+financial advisor office
+financial planning office
+forestry office
+foundation
+government agency
+government department
+graphic design
+graphic design office
+guide office
+harbour master
+insurance office
+insurance company
+IT office
+information technology office
+lawyer office
+logistics
+moving company
+NGO
+non-profit organization
+Non-governmental organization
+notary
+property management
+real estate company
+quango
+religion
+research lab
+research office
+R&D office
+surveying office
+financial advisor office
+telecommunication
+telecommunication company
+visa assistance
+water utility company
+utility company
+adult gaming centre
+amusement arcade
+bandstand
+beach resort
+bird hide
+bird watch
+bleachers
+bowling alley
+dance floor
+disc golf course
+dog park
+escape game
+fire pit
+firepit
+fishing
+fishing place
+fitness centre
+fitness station
+garden
+golf course
+hacker space
+hackerspace
+horse riding
+ice rink
+marina
+miniature golf
+nature reserve
+outdoor seating
+park
+picnic table
+pitch
+playground
+resort
+sauna
+slipway
+sports centre
+sports hall
+stadium
+summer camp
+swimming area
+swimming pool
+tanning salon
+track
+trampoline park
+water park
+wildlife hide
+quarter
+neighbourhood
+city block
+plot
+town
+village
+hamlet
+isolated dwelling
+farm
+allotments
+continent
+archipelago
+island
+islet
+square
+locality
+apartments
+building
+bungalow
+cabin
+detached house
+dormitory
+farm
+ger
+hotel
+house
+houseboat
+residential building
+semidetached house
+static caravan
+terrace
+commercial building
+industrial building
+kiosk
+office
+retail store
+supermarket
+warehouse
+cathedral
+chapel
+church
+monastery
+mosque
+presbytery
+religious building
+shrine
+synagogue
+temple
+bakehouse
+civic building
+fire station
+government building
+hospital
+public place
+public area
+toilet
+train station
+transportation
+kindergarten
+school
+university
+college
+barn
+conservatory
+cowshed
+farm auxiliary
+greenhouse
+slurry tank
+stable
+sty
+grandstand
+pavilion
+riding hall
+sports hall
+stadium
+hangar
+hut
+shed
+carport
+garage
+garages
+parking
+car park
+digester
+service
+transformer tower
+water tower
+military
+bunker
+bridge
+construction
+container
+marquee
+gatehouse
+roof
+ruins
+tree house
+alpine hut
+apartment
+aquarium
+artwork place
+tourist attraction
+point of interest
+camp pitch
+camp site
+caravan site
+chalet
+art gallery
+art museum
+guest house
+hostel
+hotel
+information center
+visitor center
+motel
+museum
+picnic site
+ttheme park
+viewpoint
+overlook
+observation point
+lookout
+viewing point
+scenic area
+vista point
+wilderness hut
+zoo
+alcohol shop
+bakery
+beverage shop
+brewing supplies
+butcher
+cheese shop
+chocolate shop
+coffee store
+confectionery shop
+candy shop
+convenience store
+deli
+dairy shop
+farmer shop
+frozen food store
+greengrocery
+green grocery
+health food store
+ice cream shop
+organic shop
+pasta shop
+pastry shop
+seafood shop
+spices shop
+tea store
+water store
+department store
+general store
+kiosk shop
+shopping mall
+supermarket
+wholesale store
+warehouse club
+baby goods shop
+bag store
+boutique
+clothes shop
+fabric shop
+fashion accessories store
+fashion store
+jewelry shop
+leather shop
+sewing shop
+shoes store
+tailor
+watch shop
+wool store
+charity
+second hand shop
+variety store
+beauty shop
+chemist
+cosmetics store
+erotic store
+hairdresser
+barber shop
+hairdresser supply shop
+hearing aids center
+herbalist shop
+massage shop
+medical supply store
+nutrition supplements store
+optician
+perfumery shop
+tattoo parlour
+agrarian shop
+appliance store
+bathroom furnishing
+tools shop
+electrical store
+energy provider
+fireplace shop
+florist
+garden centre
+garden furniture
+gas shop
+glaziery
+groundskeeping shop
+hardware store
+houseware store
+locksmith
+paint shop
+security store
+trade center
+antique shop
+bed shop
+candle shop
+carpet shop
+curtain shop
+door shop
+flooring store
+furniture store
+household linen store
+interior decoration center
+kitchen store
+lighting store
+tile shop
+window blind store
+computer store
+electronic store
+hifi shop
+mobile phone shop
+radiotechnics shop
+vacuum cleaner store
+atv shop
+bicycle shop
+boat store
+car store
+car repair
+car parts store
+caravan store
+massage shop
+fishing supplies store
+golf shop
+hunting store
+jetski store
+motorcycle store
+outdoor equipment shop
+diving equipment store
+ski equipment store
+snowmobile store
+sports store
+swimming equipment store
+trailer store
+tyre store
+art store
+collector shop
+craft supply store
+frame shop
+game shop
+scale model shop
+music store
+musical instrument shop
+photo store
+camera store
+trophy store
+video store
+video games store
+anime shop
+book store
+gift shop
+lottery store
+newsagent shop
+stationery store
+ticket store
+bookmaker shop
+cannabis store
+copyshop
+dry cleaning store
+e-cigarette shop
+funeral directors center
+laundry service
+money lender service
+party supply store
+pawn shop
+pet store
+pet grooming service
+pest control service
+pyrotechnics store
+religious center
+storage rental service
+tobacco store
+toy store
+travel agency
+vacant store
+weapon shop
+outpost
+railway station
+tram stop
+historic aircraft
+historic aqueduct
+historic archaeological site
+historic battlefield
+historic bomb crater
+historic boundary stone
+historic building
+historic cannon
+historic castle
+historic castle wall
+historic charcoal pile
+historic church
+historic city gate
+historic citywalls
+historic farm
+historic fort
+historic gallows
+historic highwater mark
+historic locomotive
+historic manor
+historic memorial
+historic milestone
+historic monastery
+historic monument
+historic optical telegraph
+historic pa
+Maori pa
+historic pillory
+Historic railway car
+historic ruins
+historic rune stone
+historic ship
+historic tank
+historic tomb
+historic tower
+historic wayside cross
+historic wayside shrine
+historic wreck
+bar
+biergarten
+cafe
+fast food
+food court
+ice cream
+pub
+restaurant
+college
+driving school
+kindergarten
+language_school
+library
+toy library
+music school
+school
+university
+bicycle parking
+bicycle repair station
+bicycle rental
+boat rental
+boat sharing
+bus station
+car rental
+car sharing
+car wash
+vehicle inspection
+charging station
+ferry terminal
+fuel
+grit bin
+motorcycle parking
+parking
+parking entrance
+parking space
+taxi
+atm
+bank
+bureau de change
+baby hatch
+clinic
+dentist
+doctors
+hospital
+nursing_home
+pharmacy
+social facility
+veterinary
+arts centre
+brothel
+casino
+cinema
+community centre
+conference centre
+events venue
+fountain
+gambling
+love hotel
+nightclub
+planetarium
+public_bookcase
+social centre
+strip club
+stripclub
+studio
+swinger club
+swinger club
+cascade
+frontier
+location
+shop
+workshop
+oil refinery
+petroleum refinery
+spot
+place
+topographic point
+well
+eitchen midden
+kitchen midden
+midden
+dale
+gate
+outpost
+outstation
+rise
+climb
+upgrade
+raise
+acclivity
+ascent
+inlet
+recess
+mausoleum
+air base
+air station
+reservoir
+man-made lake
+artificial lake
+marquee
+pavilion
+forest
+timberland
+timber
+woodland
+municipality
+clearing
+glade
+trestle bridge
+recording studio
+port
+football stadium
+penal colony
+bookstore
+bookstall
+bookshop
+canon
+canyon
+patriarchate
+fencing
+fence
+shift
+fracture
+break
+fault
+faulting
+geological fault
+weir
+killing field
+highland
+upland
+bomb shelter
+air-raid shelter
+bombproof
+butcher shop
+meat market
+exchange
+central
+telephone exchange
+natatorium
+swimming pool
+swimming bath
+part
+region
+enclave
+notch
+pass
+mountain pass
+bakeshop
+bakehouse
+bakery
+desktop
+geyser
+covered bridge
+forward market
+futures exchange
+futures market
+plaza
+center
+shopping center
+mall
+shopping centre
+shopping mall
+campus
+herb garden
+home
+rest home
+nursing home
+business district
+downtown
+bog
+peat bog
+autobahn
+drop
+cliff
+drop-off
+burial site
+cemetery
+memorial park
+graveyard
+burial ground
+necropolis
+burying ground
+bunker
+trap
+sand trap
+air terminal
+airport terminal
+black hole
+vinery
+vineyard
+grave
+tomb
+reach
+promenade
+mall
+marina
+tannery
+real property
+real estate
+realty
+immovable
+rifle shot
+rifle range
+plantation
+park
+commons
+green
+common
+chem lab
+chemistry lab
+chemistry laboratory
+railway station
+train station
+train depot
+railroad terminal
+railroad station
+arcade
+street
+princedom
+principality
+administrative district
+territorial division
+administrative division
+way station
+stopover
+mount
+mountain
+firebox
+national capital
+pit
+cavity
+glacier
+bank
+bank building
+hamlet
+village
+feeder
+affluent
+confluent
+tributary
+fjord
+fiord
+dike
+dam
+dyke
+sole
+particle detector
+ice cap
+icecap
+square
+public square
+trench
+room
+toll bridge
+meridian
+line of longitude
+dock
+court
+courtyard
+air passage
+air duct
+airway
+township
+town
+fairground
+fireplace
+hearth
+open fireplace
+prairie
+reservation
+reserve
+salt mine
+railway junction
+excavation
+hill
+drive
+parkway
+internment camp
+prison camp
+prisoner of war camp
+khanate
+cenotaph
+empty tomb
+seigneury
+seigniory
+signory
+grot
+grotto
+military installation
+tunnel
+railroad tunnel
+iceberg
+berg
+watercourse
+waterway
+slammer
+jail
+jailhouse
+clink
+gaol
+poky
+pokey
+thermal spring
+hot spring
+earth
+land
+ground
+terra firma
+solid ground
+dry land
+air lane
+skyway
+flight path
+airway
+rock garden
+rockery
+level crossing
+grade crossing
+hypermarket
+tea garden
+tokamak
+beach
+rootage
+source
+station
+zebra crossing
+pedestrian crossing
+butte
+borderline
+boundary line
+delimitation
+lagoon
+laguna
+lagune
+suburban area
+suburbia
+suburb
+wholesale house
+discounter
+discount house
+discount store
+fountain
+chain of mountains
+range of mountains
+chain
+mountain chain
+mountain range
+stock exchange
+stock market
+securities market
+lough
+power system
+grid
+power grid
+ghetto
+caldera
+hot spot
+hotspot
+bridge
+span
+distillery
+still
+station
+post
+wind park
+wind energy facility
+wind farm
+sandbar
+sand bar
+bell foundry
+safety
+refuge
+library
+wormhole
+scarp
+escarpment
+oxbow lake
+side
+slope
+incline
+field
+installation
+facility
+rift
+place
+seat
+graving dock
+dry dock
+drydock
+state capital
+sanctuary
+triumphal arch
+studio
+theme park
+land
+state
+country
+divider
+partition
+sampler
+sampling station
+scene
+setting
+salt plain
+salt flat
+silver mine
+dukedom
+duchy
+convenience store
+portal
+wildcat well
+wildcat
+loch
+terrain
+oiler
+oil well
+suspension bridge
+roadway
+airfield
+field
+landing field
+flying field
+polder
+correctional institution
+minefield
+dune
+sand dune
+retirement community
+retirement complex
+guyot
+esker
+waterfall
+falls
+school system
+opening
+gap
+vale
+valley
+repair shop
+fix-it shop
+federal district
+barbacan
+barbican
+dome
+domed stadium
+covered stadium
+bus route
+fort
+fortress
+grocery store
+grocery
+market
+food market
+copper mine
+emirate
+formation
+geological formation
+public convenience
+public toilet
+public lavatory
+comfort station
+convenience
+toilet facility
+restroom
+wash room
+command post
+general headquarters
+gateway
+proving ground
+plaza
+place
+piazza
+provincial capital
+sea
+bypass
+beltway
+ring road
+ringway
+frame
+condominium
+condo
+camping site
+bivouac
+campground
+campsite
+camping ground
+camping area
+encampment
+metropolis
+city
+urban center
+colonnade
+viceroyalty
+obelisk
+fish tank
+aquarium
+marine museum
+parlour
+parlor
+sulphur mine
+sulfur mine
+checkpoint
+national monument
+cave
+waterfront
+army hut
+field hut
+hut
+land
+ground
+soil
+spa
+watering hole
+watering place
+spur
+spur track
+branch line
+kiln
+peninsula
+camp
+summer camp
+shire town
+county town
+itinerary
+path
+route
+county seat
+county courthouse
+sink
+sinkhole
+swallow hole
+arterial road
+maar
+eparchy
+zoo
+menagerie
+zoological garden
+patio
+terrace
+amphitheater
+amphitheatre
+track
+course
+path
+trust territory
+trusteeship
+pharos
+beacon
+beacon light
+lighthouse
+wind tunnel
+termination
+endpoint
+end point
+terminus
+landscape
+sultanate
+route
+road
+sphere
+sphere of influence
+borough
+fort
+garrison
+burg
+sound
+strait
+spillway
+spill
+wasteweir
+ghat
+blast furnace
+bay
+embayment
+site
+land site
+layby
+pull-off
+lay-by
+rest area
+rest stop
+homestead
+drome
+airdrome
+aerodrome
+airport
+bus station
+coach station
+bus depot
+bus terminal
+hatchery
+archbishopric
+fishpond
+mountain peak
+football field
+gridiron
+pathway
+footpath
+velodrome
+park
+ballpark
+reef
+hermitage
+glen
+flea market
+eparchy
+exarchate
+subway station
+lido
+catacomb
+hemisphere
+short
+aquifer
+habitat
+home ground
+heliport
+culvert
+migration route
+flyway
+barony
+seacoast
+seashore
+coast
+sea-coast
+library
+depository library
+country
+atoll
+baby's room
+nursery
+causeway
+physics laboratory
+physics lab
+see
+car door
+ghost town
+archive
+tube
+tubing
+marshland
+fen
+fenland
+marsh
+circle
+traffic circle
+rotary
+roundabout
+isthmus
+service station
+billboard
+hoarding
+axis
+assembly plant
+tongue
+spit
+transportation
+transit
+transportation system
+health spa
+spa
+health club
+wall
+ashram
+heel
+shooting gallery
+shooting range
+landmark
+moorland
+moor
+trail
+prop
+viaduct
+locus
+venue
+locale
+ocean
+cliff dwelling
+clock tower
+munition
+fortification
+plug
+stopper
+stopple
+shipyard
+prefecture
+ice field
+way
+floodplain
+flood plain
+commodity exchange
+commodities market
+commodities exchange
+pool
+boundary
+bounds
+bound
+rift valley
+sandbank
+breakwater
+groin
+bulwark
+mole
+seawall
+jetty
+groyne
+pizza parlor
+pizzeria
+pizza shop
+catheter
+landfill
+city district
+department store
+emporium
+port of entry
+point of entry
+trend
+tendency
+territorial dominion
+territory
+district
+dominion
+gasoline station
+filling station
+petrol station
+gas station
+commune
+pike
+state highway
+superhighway
+freeway
+thruway
+expressway
+motorway
+throughway
+factory
+mill
+manufacturing plant
+manufactory
+river
+backyard
+head
+foreland
+promontory
+headland
+aqueduct
+stairway
+staircase
+ship canal
+shipway
+time zone
+ironmonger's shop
+ironmonger
+hardware store
+newsstand
+farm
+whorl
+helix
+spiral
+coil
+volute
+lift bridge
+drawbridge
+imperium
+empire
+brewery
+heart
+center
+centre
+eye
+middle
+coalfield
+shore
+store
+shop
+water parting
+divide
+watershed
+ravine
+junction
+salon
+beauty salon
+beauty shop
+beauty parlour
+beauty parlor
+museum
+table
+mesa
+neighborhood
+neck of the woods
+neighbourhood
+locality
+vicinity
+swamp
+swampland
+urban area
+populated area
+field
+battlefield
+battleground
+field of honor
+field of battle
+byway
+bypath
+byroad
+top
+office
+business office
+textile mill
+microbrewery
+turnpike
+distributary
+water gap
+town
+auditorium
+camp
+refugee camp
+ridge
+power station
+powerhouse
+power plant
+water
+body of water
+science museum
+ship route
+trade route
+sea lane
+seaway
+structure
+construction
+woodlet
+orchard
+grove
+plantation
+sheet
+amusement park
+pleasure ground
+funfair
+tower
+truss bridge
+pharmacy
+chemist's
+drugstore
+apothecary's shop
+chemist's shop
+concert hall
+gorge
+river basin
+basin
+catchment area
+catchment basin
+drainage area
+watershed
+drainage basin
+ballroom
+dance palace
+dance hall
+turnpike
+toll road
+country store
+general store
+trading post
+front end
+front
+forepart
+orbit
+celestial orbit
+housing estate
+piscary
+fishery
+cannery
+slum
+slum area
+cape
+ness
+memorial
+monument
+lake
+garden
+enterprise zone
+bathroom
+bath
+gulf
+destination
+finish
+goal
+creek
+brook
+observation tower
+lookout
+observatory
+lookout station
+crater
+volcanic crater
+research lab
+science laboratory
+science lab
+lab
+research laboratory
+laboratory
+oilfield
+housing project
+public housing
+heronry
+congressional district
+electrical plant
+electrical system
+national park
+interstate highway
+interstate
+manifold
+bastion
+citadel
+planned community
+labour camp
+labor camp
+formal garden
+window
+waterway
+oasis
+coral reef
+amusement arcade
+hovel
+hutch
+hut
+shack
+shanty
+highway
+main road
+chimney
+rose garden
+archipelago
+grassland
+detention cell
+detention centre
+bullpen
+meadow
+hayfield
+abode
+residence
+geographic area
+geographical region
+geographical area
+geographic region
+new town
+pavement
+sidewalk
+desert
+public transit
+dig
+excavation
+archeological site
+television station
+repair shed
+airdock
+hangar
+winery
+wine maker
+salt marsh
+angle
+lunar crater
+cove
+lineation
+outline
+interchange
+furnace
+terminal
+terminus
+depot
+gallery
+art gallery
+picture gallery
+field
+plain
+champaign
+prison
+prison house
+watercourse
+stream
+home
+place
+gold mine
+goldmine
+state
+province
+toilet
+bathroom
+lavatory
+privy
+lav
+john
+school district
+door
+free port
+free zone
+greenbelt
+greenway
+concentration camp
+stockade
+bell tower
+barrio
+latitude
+parallel
+parallel of latitude
+line of latitude
+state prison
+delta
+arena
+bowl
+stadium
+sports stadium
+chamber
+land
+dockyard
+rapid
+coal mine
+coalpit
+radio station
+presidio
+firehouse
+fire station
+bullring
+arboretum
+botanical garden
+shelter
+cell
+belfry
+campanile
+supermarket
+diocese
+episcopate
+bishopric
+vent
+volcano
+protectorate
+associated state
+market town
+track
+racecourse
+raceway
+racetrack
+headwater
+cwm
+cirque
+corrie
+subdivision
+megalithic structure
+megalith
+bateau bridge
+pontoon bridge
+floating bridge
+corridor
+camera obscura
+rail
+railing
+interface
+yagoGeoEntity
+bivouac
+camp
+encampment
+cantonment
+line
+rail line
+railway line
+hall
+hallway
+brickwork
+pool
+pond
+billiard room
+billiard saloon
+billiard parlour
+billiard hall
+billiard parlor
+zone
+smelter
+smeltery
+rolling mill
+position
+place
+repository
+deposit
+depository
+depositary
+overpass
+flyover
+shire
+channel
+television channel
+saloon
+bar
+barroom
+taproom
+ginmill
+police station
+police headquarters
+station house
+cantilever bridge
+red-light district
+youth hostel
+hostel
+student lodging
+shot tower
+sanctum
+holy place
+avenue
+boulevard
+scene
+estuary
+flume
+gulch
+oil pipeline
+stall
+cubicle
+kiosk
+booth
+seamount
+service area
+barrier island
+wetland
+spread
+ranch
+cattle ranch
+cattle farm
+dual carriageway
+divided highway
+resort area
+playground
+vacation spot
+county
+barrier
+footbridge
+pedestrian bridge
+overcrossing
+precinct
+city limit
+city limits
+strip
+landing strip
+flight strip
+airstrip
+pylon
+broadcast station
+broadcasting station
+parkland
+park
+bazar
+bazaar
+habitation
+abode
+home
+domicile
+dwelling
+dwelling house
+metalworks
+foundry
+mine
+lawn
+tableland
+plateau
+tee
+teeing ground
+mercantile establishment
+outlet
+sales outlet
+retail store
+interstellar medium
+incinerator
+continent
+canal
+compartment
+cabaret
+night club
+club
+nightspot
+nightclub
+industrial park
+island
+enclosure
+theatre
+courthouse
+embassy
+fire station
+police
+post box
+post depot
+post office
+prison
+ranger station
+townhall
+bbq
+bench
+dog toilet
+drinking water
+give box
+shelter
+shower
+telephone
+toilet
+water point
+watering place
+sanitary dump station
+recycling
+waste basket
+waste disposal
+waste transfer station
+animal boarding
+animal breeding
+animal shelter
+baking oven
+childcare
+clock
+crematorium
+dive centre
+funeral hall
+grave yard
+gym
+hunting stand
+internet cafe
+kitchen
+kneipp water cure
+lounger
+marketplace
+monastery
+photo booth
+place of mourning
+place of worship
+public bath
+public building
+refugee site
+vending machine
+towns
+town
+gulfs
+gulf
+villages
+village
+bars
+bar
+barangays
+barangay
+beaches
+beach
+communities
+community
+fairgrounds
+fairground
+houses
+house
+habitats
+habitat
+ports
+port
+subdistricts
+subdistrict
+tehsils
+tehsil
+voisinages
+voisinage
+apartments
+apartment
+arrondissements
+arrondissement
+bays
+bay
+blocks
+block
+buildings
+building
+bld
+bunkers
+bunker
+businesses
+business
+camps
+camp
+capes
+cape
+bights
+bight
+caves
+cave
+cays
+cay
+cemeteries
+cemetery
+clearances
+clearance
+climbings
+climbing
+clubs
+club
+coastlines
+coastline
+confluences
+confluence
+countrysides
+countryside
+creeks
+creek
+crofts
+corft
+debes
+debe
+deltas
+delta
+departments
+department
+dolinas
+dolina
+estates
+estate
+factories
+factory
+farmhouses
+farmhouse
+farmlands
+farmland
+farmyards
+farmyard
+fells
+fell
+fields
+field
+garages
+garage
+harbours
+harbout
+hermitages
+hermitage
+hills
+hill
+hollows
+hollow
+homes
+home
+homesteads
+homestead
+housings
+housing
+huts
+hut
+inlands
+inland
+inlets
+inlet
+isl
+isl
+islets
+islet
+lakes
+lake
+landmarks
+landmark
+locals
+local
+locations
+location
+memorials
+memorial
+moors
+moor
+mounds
+mound
+museums
+museum
+naturals
+natutal
+neighborhoods
+neighborhood
+offices
+office
+parishes
+parish
+parks
+park
+peaks
+peak
+peninsulas
+peninsula
+piers
+pier
+pits
+pit
+places
+place
+plateaux
+plateau
+plazas
+plaza
+polders
+polder
+prefectures
+perfecture
+promontories
+promontory
+quarries
+quarry
+raceways
+raceway
+railways
+railway
+ranches
+ranch
+reefs
+reef
+residences
+residence
+residentials
+residential
+rocks
+rock
+roofs
+roof
+ruins
+ruin
+rurals
+rural
+saddles
+saddle
+settlements
+settlement
+shires
+shire
+shoals
+shoal
+sites
+site
+skerries
+skerry
+stables
+stable
+stations
+station
+stockyards
+stockyard
+studs
+stud
+subregions
+subregion
+suburbans
+suburban
+territories
+terrirtory
+townships
+township
+unincorporateds
+unincorporated
+uninhabiteds
+uninhabited
+valleys
+valley
+vicinities
+vincinity
+vineyards
+wineyard
+walls
+wall
+wards
+ward
+warehouses
+warehouse
+wetlands
+wetland
+wharves
+wharf
+wineries
+winery
+woods
+wood
+woodlands
+woodland
+yards
+yard
+zones
+zone
+mountains
+mountain
+towers
+tower
+rivers
+river
+forests
+forest
+hospitals
+hospital
+cafes
+cafe
+spots
+spot
+universities
+university
+churches
+church
+pharmacies
+pharmacy
+shops
+shop
+precincts
+precinct
+supermarkets
+supermarket
+markets
+market
+windmills
+windmill
+prefectures
+prefecture
+business establishment
+business establishments
+magnet schools
+magnet school
+residential area
+residential areas
+forested area
+forested areas
+rural areas
+rural area
+rural landscape
+rural landscapes
+health service units
+health service unit
+district center
+district centers
+nonprofit organizations
+nonprofit organization
+municipalities
+municipality
+settlement
+settlements
+sprawl
+sprawls
+urban sprawls
+urban sprawl
+metropolitan area
+metropolitan areas
+metropolitan counties
+metropolitan county
+ethnoburbs
+ethnoburb
+built-up area
+built-up areas
+enterprises
+enterprise
+residential units
+residential unit
+parcels
+parcel
+asphalt street
+asphalt streets
+bus stop
+bus stops
+area of forestry
+areas of forestry
+bank
+bank branch
+bank branches
+banks
+building
+buildings
+built-up land
+built-up lands
+cafe
+cafes
+cities
+city
+city block
+city blocks
+city council
+city councils
+clinic
+clinics
+coastline
+coastlines
+commercial building
+commercial buildings
+commercially zoned land
+commercially zoned lands
+conservation area
+conservation areas
+counties
+county
+district
+districts
+elementary school
+elementary schools
+facilities
+facility
+fire station
+fire stations
+floodplain
+floodplains
+flood-prone area
+flood-prone areas
+food resource
+food resources
+hall
+halls
+forest land
+forest lands
+forestry land
+forestry lands
+health care facilities
+health care facility
+health facilities
+health facility
+highway
+highways
+specialty store
+specialty stores
+headquarter
+headquarters
+accommodation
+accommodations
+hotel
+hotels
+house
+houses
+industrial area
+industrial plant
+industrial plants
+industry area
+industry areas
+intersection
+intersections
+irrigated area
+irrigated areas
+lake
+lakes
+lakeshore
+lakeshores
+land parcel
+land parcels
+landfill
+landfills
+landscape conservation zone
+landscape conservation zones
+libraries
+library
+library branch
+library branches
+match factories
+match factory
+measuring station
+measuring stations
+meteorological station
+meteorological stations
+metro station
+metro stations
+metropolitan area
+metropolitan areas
+metropolitan school
+metropolitan schools
+metropolitan service area
+metropolitan service areas
+motorway
+motorways
+nature reserve
+nature reserves
+neighborhood
+neighborhoods
+noise mitigation zone
+noise mitigation zones
+non-urban area
+non-urban areas
+office
+offices
+oil-well
+oil-wells
+superstore
+superstores
+paddy field
+paddy fields
+park
+parks
+pizza chain
+pizza chains
+police department
+police departments
+police district
+police districts
+police station
+police stations
+precinct
+precincts
+primary school
+primary schools
+private hospital
+private hospitals
+privately owned land
+privately owned lands
+public neighborhood school
+public neighborhood schools
+quite zone
+quite zones
+railway station
+railway stations
+residential area
+residential areas
+residential communities
+residential community
+residential neighborhood
+residential neighborhoods
+residential site
+residential sites
+resort
+resorts
+river
+river delta
+river deltas
+rivers
+road
+road section
+road sections
+road segment
+road segments
+roads
+rocky area
+rocky areas
+rural communities
+rural community
+school
+schools
+shop
+shops
+sidewalk
+sidewalks
+residential properties
+residential property
+ski piste
+ski pistes
+ski resort
+ski resorts
+station
+stations
+store
+stores
+street
+streets
+suburb
+suburban area
+suburban areas
+suburbs
+theme park
+theme parks
+town
+towns
+urban area
+urban areas
+vacant house
+vacant houses
+visitor facilities
+visitor facility
+water well
+water wells
+watershed
+watersheds
+wind farm
+wind farms
+danger zone
+danger zones
+water resources
+water resource
+urban community
+urban communities
+ski lift stations
+ski lift station
+runways
+runway
+rental houses
+rental house
+public hospitals
+public hospital
+playgrounds
+playground
+museums
+museum
+hospitals
+hospital
+gyms
+gym
+grasslands
+grassland
+freeways
+freeway
+forested areas
+forested area
+forest areas
+forest area
+factory
+factories
+community
+communities
+coffee shops
+coffee shop
+charging stations
+charging station
+chain stores
+chain store
+central city
+central cities
+arcades
+arcade
+aerodrome
+aerodromes
+castle
+castles
+college
+colleges
+monument
+monuments
+casino
+theater
+theaters
+tourist attraction
+tourist attractions
+visitor attraction
+visitor attractions
+land
+underground line
+underground lines
+underground station
+underground stations
+point
+points
+spot
+spots

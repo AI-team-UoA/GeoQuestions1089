@@ -1,0 +1,179 @@
+key,value,description
+office,accountant,An office for an accountant.
+office,advertising agency,"A service-based business dedicated to creating, planning, and handling advertising."
+office,architect,An office for an architect or group of architects.
+office,association,"An office of a non-profit organisation, society, e.g. student, sport, consumer, automobile, bike association, etc."
+office,charity,An office of a charitable organization
+office,company,An office of a private company
+office,consulting,"An office for a consulting firm, providing expert professional advice to other companies or organisations."
+office,courier,A courier company
+office,coworking,An office where people can go to work (might require a fee); not limited to a single employer
+office,educational institution,An office for an educational institution.
+office,employment agency,An office for an employment service.
+office,energy supplier,An office for a energy supplier.
+office,engineer,An office for an engineer or group of engineers.
+office,estate agent,A place where you can rent or buy a house.
+office,financial,An office of a company in the financial sector
+office,financial advisor,A professional who offers financial planning and sells financial services to clients.
+office,forestry,A forestry office
+office,foundation,An office of a foundation
+office,government,"An office of a (supra)national, regional or local government agency or department"
+office,graphic design,An office of a graphic designer
+office,guide,"An office for tour guides, mountain guides, dive guides, etc."
+office,harbour master,The Harbour-master's office
+office,insurance,An office at which you can take out insurance policies.
+office,it,An office for an IT specialist.
+office,lawyer,An office for a lawyer.
+office,logistics,An office for a forwarder / hauler.
+office,moving company,An office which offers a relocation service.
+office,newspaper,An office of a newspaper
+office,ngo,"An office for a non-profit, non-governmental organisation (NGO)."
+office,notary,An office for a notary public (common law)
+office,political party,An office of a political party
+office,property management,"Office of a company, which manages a real estate property."
+office,quango,An office of a quasi-autonomous non-governmental organisation.
+office,religion,office of a community of faith
+office,research,An office for research and development
+office,surveyor,"An office of a person doing technical surveys, such as land surveys or risk and damage evaluations of properties and equipment."
+office,tax advisor,An office for a financial expert specially trained in tax law
+office,telecommunication,An office for a telecommunication company
+office,visa,An office of an organisation or business which offers visa assistance
+office,water utility,The office for a water utility company or water board.
+leisure,adult gaming centre,A venue with gambling machines and other pay-to-play games. 
+leisure,amusement arcade,"A venue with pay-to-play games, such as video games, driving simulators, pinball machines, merchandisers, etc. "
+leisure,bandstand,An open structure where musical bands can perform concerts.
+leisure,beach resort,To mark the boundary of a managed beach.
+leisure,bird hide,A place to observe birds.
+leisure,bleachers,"Raised, tiered rows of benches found at spectator events"
+leisure,bowling alley,A facility that is equipped to play the game of bowling.
+leisure,common,A common land (deprecated).
+leisure,dance,A place to go dancing.
+leisure,disc golf course,Disc golf course
+leisure,dog park,"Designated area, with or without a fenced boundary, where dog-owners are permitted to exercise their pets unrestrained."
+leisure,escape game,"A physical adventure game in which players solve a series of puzzles using clues, hints and strategy to complete the objectives at hand."
+leisure,firepit,"A permanent location or structure to host campfires, bonfires, etc."
+leisure,fishing,A place for fishing.
+leisure,fitness centre,A place with exercise machines and/or fitness/dance classes.
+leisure,fitness station,"A place with exercise machines, single or collection of, outdoor."
+leisure,garden,Place where flowers and other plants are grown in a decorative and structured manner or for scientific purposes.
+leisure,golf course,A golf course.
+leisure,hackerspace,"A place where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialize and/or collaborate."
+leisure,horse riding,"A facility where people practise horse riding, usually in their spare time, e.g. a riding centre."
+leisure,ice rink,A place where you can skate or play ice hockey.
+leisure,marina,For mooring leisure yachts and motor boats.
+leisure,miniature golf,A place or area that you can play miniature golf.
+leisure,nature reserve,"Protected area of importance for wildlife, flora, fauna or features of geological or other special interest."
+leisure,outdoor seating,Areas for outdoor gastronomy.
+leisure,park,"Open, green area for recreation, usually municipal."
+leisure,picnic table,A picnic table
+leisure,pitch,"A field for playing football, soccer, cricket, baseball, tennis, etc., a riding arena or a skate park. "
+leisure,playground,Playground for little children.
+leisure,resort,"A place used for relaxation or recreation, attracting visitors for vacations, tourism and/or going swimming in a pool and/or a nearby body of water."
+leisure,sauna,"A small room or house designed to experience dry or wet heat sessions, or an establishment with one or more of these and auxiliary facilities."
+leisure,slipway,Boats can be launched here.
+leisure,sports centre,A distinct facility where a range of sports take place within an enclosed area. 
+leisure,sports hall,A building that is used as a sports hall.
+leisure,stadium,A major sports arena with substantial tiered seating.
+leisure,summer camp,Summer camp is a supervised program for children or teenagers conducted during the summer months in some countries. Children and adolescents who attend summer camp are known as campers.
+leisure,swimming area,"A swimming area - place over river, lake or other water reservoir where swimming is allowed."
+leisure,swimming pool,A swimming pool (water area only).
+leisure,tanning salon,Place where customers can use UV lamps to tan their skin.
+leisure,track,"A track for running, cycling and other non-motorised racing such as horses, greyhounds."
+leisure,trampoline park,An leisure facility consisting of many interlinked trampolines
+leisure,water park,"An amusement park with features like water slides, recreational pools (e.g. wave pools) or lazy rivers."
+leisure,wildlife hide,A place to observe wildlife.
+place,quarter,"A quarter is a named, geographically localised place within a suburb of a larger city or within a town which is bigger than a neighbourhood"
+place,neighbourhood,"A neighbourhood is a smaller named, geographically localised place within a suburb of a larger city or within a town or village"
+place,city block,"A named city block, usually surrounded by streets."
+place,plot,A named plot is a tract or parcel of land owned or meant to be owned by some owner.
+place,town,"An important urban centre, between a village and a city in size."
+place,village,"A smaller distinct settlement, smaller than a town with few facilities available with people traveling to nearby towns to access these."
+place,hamlet,"A smaller rural community, typically with fewer than 100-200 inhabitants, and little infrastructure."
+place,isolated dwelling,The smallest kind of settlement (1-2 households).
+place,farm,An individually named farm.
+place,allotments,"A separate settlement, which is located outside an officially inhabited locality and has its own addressing"
+place,continent,"One of the seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America"
+place,archipelago,A named group or chain of closely related islands and islets.
+place,island,Any piece of land that is completely surrounded by water and isolated from other significant landmasses.
+place,islet,A very small island.
+place,square,"A town or village square: a paved open public space, generally of architectural significance, which is surrounded by buildings in a built-up area such as a city, town or village."
+place,locality,A named place that has no population.
+place,ocean,The world's five main major oceanic divisions.
+building,apartments,"A building arranged into individual dwellings, often on separate floors. May also have retail outlets on the ground floor."
+building,bungalow,"A single-storey detached small house, Dacha."
+building,cabin,"A cabin is a small, roughly built house usually with a wood exterior and typically found in rural areas."
+building,detached,"A detached house, a free-standing residential building usually housing a single family."
+building,dormitory,A shared building intended for college/university students (not a share room for multiple occupants as implied by the term in British English).
+building,farm,A residential building on a farm (farmhouse).
+building,ger,A permanent or seasonal round yurt or ger used as dwelling.
+building,hotel,A building designed with separate rooms available for overnight accommodation. 
+building,house,"A dwelling unit inhabited by a single household (a family or small group sharing facilities such as a kitchen). Houses forming half of a semi-detached pair, or one of a row of terraced houses, should share at least two nodes with joined neighbours, thereby defining the party wall between the properties."
+building,houseboat,A boat used primarily as a home
+building,residential,"A general tag for a building used primarily for residential purposes. Where additional detail is available consider using 'apartments', 'terrace', 'house', 'detached' or 'semidetached house'."
+building,semidetached house,"A residential house that shares a common wall with another on one side. Typically called a ""duplex"" in American English."
+building,static caravan,A mobile home (semi)permanently left on a single site
+building,terrace,"A single way used to define the outline of a linear row of residential dwellings, each of which normally has its own entrance, which form a terrace (""row-house"" or ""townhouse"" in North American English). Consider defining each dwelling separately using 'house'."
+building,commercial,"A building for non-specific commercial activities, not necessarily an office building. "
+building,industrial,A building for industrial purposes. Use warehouse if the purpose is known to be primarily for storage/distribution. 
+building,kiosk,A small one-room retail building.
+building,office,An office building.
+building,retail,A building primarily used for selling goods that are sold to the public.
+building,supermarket,A building constructed to house a self-service large-area store.
+building,warehouse,A building primarily intended for the storage or goods or as part of a distribution system.
+building,cathedral,A building that was built as a cathedral. 
+building,chapel,A building that was built as a chapel. 
+building,church,A building that was built as a church.
+building,monastery,"A building constructed as monastery. Often, monasteries are consisting of several distinct buildings with specific functions."
+building,mosque,A building errected as mosque.
+building,presbytery,A building where priests live and work.
+building,religious,Unspecific building related to religion. Prefer more specific values if possible.
+building,shrine,A building that was built as a shrine.
+building,synagogue,A building that was built as a synagogue.
+building,temple,A building that was built as a temple.
+building,bakehouse,A building that was built as a bakehouse (i.e. for baking bread). 
+building,civic,A generic tag for a building created to house some civic amenity.
+building,fire station,"A building constructed as fire station, i.e. to house fire fighting equipment and officers, regardless of current use. "
+building,government,"For government buildings in general, including municipal, provincial and divisional secretaries, government agencies and departments, town halls, (regional) parliaments and court houses."
+building,hospital,A building errected for a hospital. 
+building,public,"A building constructed as accessible to the general public (a town hall, police station, court house, etc.)."
+building,toilets,A toilet block.
+building,train station,"A building constructed to be a train station building, including buildings that are abandoned and used nowadays for a different purpose."
+building,transportation,A building related to public transport.
+building,kindergarten,For any generic kindergarten buildings. Buildings for specific uses (sports halls etc.) should be tagged for their purpose.
+building,school,A building errected as school. Buildings for specific uses (sports halls etc.) should be tagged for their purpose. 
+building,university,A university building. 
+building,college,A college building.
+building,barn,An agricultural building used for storage and as a covered workplace.
+building,conservatory,A building or room having glass or tarpaulin roofing and walls used as an indoor garden or a sunroom (winter garden).
+building,cowshed,"A cowshed (cow barn, cow house) is a building for housing cows, usually found on farms."
+building,farm auxiliary,A building on a farm that is not a dwelling (use 'farm' or 'house' for the farm house).
+building,greenhouse,A greenhouse is a glass or plastic covered building used to grow plants.
+building,slurry tank,A circular building built to hold a liquid mix of primarily animal excreta (also known as slurry).
+building,stable,A stable is a building where horses are kept.
+building,sty,"A sty (pigsty, pig ark, pig-shed) is a building for raising domestic pigs, usually found on farms."
+building,grandstand,"The main stand, usually roofed, commanding the best view for spectators at racecourses or sports grounds."
+building,pavilion,"A sports pavilion usually with changing rooms, storage areas and possibly an space for functions & events. Avoid using this term for other structures called pavilions by architects (see [W] Pavilion)"
+building,riding hall,A building that was built as a riding hall.
+building,sports hall,A building that was built as a sports hall.
+building,stadium,"A building constructed to be a stadium building, including buildings that are abandoned and used nowadays for a different purpose."
+building,hangar,"A hangar is a building used for the storage of airplanes, helicopters or space-craft."
+building,hut,A hut is a small and crude shelter. Note that this word has two meanings.
+building,shed,"A shed is a simple, single-storey structure in a back garden or on an allotment that is used for storage, hobbies, or as a workshop."
+building,carport,"A carport is a covered structure used to offer limited protection to vehicles, primarily cars, from the elements. Unlike most structures a carport does not have four walls, and usually has one or two."
+building,garage,A garage is a building suitable for the storage of one or possibly more motor vehicle or similar.
+building,garages,A building that consists of a number of discrete storage spaces for different owners/tenants. 
+building,parking,Structure purpose-built for parking cars.
+building,digester,A digester is a bioreactor for the production of inflatable biogas from biomass.
+building,service,Service building usually is a small unmanned building with certain machinery (like pumps or transformers).
+building,transformer tower,A transformer tower is a characteristic tall building comprising a distribution transformer and constructed to connect directly to a medium voltage overhead power line. 
+building,water tower,A water tower
+building,military,A military building. 
+building,bunker,A hardened military building. 
+building,bridge,A building used as a bridge. 
+building,construction,Used for buildings under construction. 
+building,container,"For a container used as a permanent building. Do not map containers placed temporarily, for example used in shipping or contraction."
+building,marquee,For a tent or easily demountable tent-like building.
+building,gatehouse,"An entry control point building, spanning over a highway that enters a city or compound."
+building,roof,"A structure that consists of a roof with open sides, such as a rain shelter, and also gas stations"
+building,ruins,"Frequently used for a house or other building that is abandoned and in poor repair. However, some believe this usage is incorrect, and the tag should only be used for buildings constructed as fake ruins (for example sham ruins in an English landscape garden). See also lifecycle tagging."
+building,tree house,"An accommodation, often designed as a small hut, sometimes also as a room or small apartment. Built on tree posts or on a natural tree. A tree house has no contact with the ground. Access via ladders, stairs or bridgeways."

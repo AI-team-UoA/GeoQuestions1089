@@ -1,0 +1,3 @@
+hasWikipediaUrl , http://yago-knowledge.org/resource/hasWikipediaUrl
+hasWikipediaArticleLength , http://yago-knowledge.org/resource/hasWikipediaArticleLength
+linksTo , http://yago-knowledge.org/resource/linksTo

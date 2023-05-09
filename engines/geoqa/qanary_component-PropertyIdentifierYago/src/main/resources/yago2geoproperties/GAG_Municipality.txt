@@ -1,0 +1,14 @@
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_ID , OSM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name , OSM Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Description , GADM Description
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_ID , GADM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name , GADM Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_NationalLevel , GADM NationalLevel
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_UpperLevelUnit , GADM UpperLevelUnit
+http://kr.di.uoa.gr/yago2geo/ontology/GAG_BelongsTo , GAG BelongsTo
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Name , GAG Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Population , GAG Population
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_ID , GAG ID
+http://www.opengis.net/ont/geosparql#sfTouches , Touches
+http://www.opengis.net/ont/geosparql#sfWithin , Within
+strdf:area, area

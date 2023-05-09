@@ -1,0 +1,28 @@
+,class,label,gloss
+0,http://kr.di.uoa.gr/yago2geo/ontology/hasAddress,address,Address of a place or a building
+1,http://kr.di.uoa.gr/yago2geo/ontology/hasWikidata,Wikidata,Wiki data address
+2,http://kr.di.uoa.gr/yago2geo/ontology/hasWebsite,Website,Website
+5,http://kr.di.uoa.gr/yago2geo/ontology/hasPhone,Phone,Phone
+6,http://kr.di.uoa.gr/yago2geo/ontology/hasWikipedia,Wikipedia,Wiki data address
+7,http://kr.di.uoa.gr/yago2geo/ontology/hasEmail,Email,Email
+8,http://kr.di.uoa.gr/yago2geo/ontology/hasFax,Fax,Fax
+9,http://kr.di.uoa.gr/yago2geo/ontology/hasTwitter,Twitter,Twitter account
+10,http://kr.di.uoa.gr/yago2geo/ontology/hasEmail,Email,Email address
+11,http://kr.di.uoa.gr/yago2geo/ontology/hasGardenType,GardenType,The type of garden
+12,http://kr.di.uoa.gr/yago2geo/ontology/hasLanduse,Landuse,Land use
+13,http://kr.di.uoa.gr/yago2geo/ontology/hasAccess,Access,"Access information, private vs public"
+14,http://kr.di.uoa.gr/yago2geo/ontology/hasReligion,Religion,Religion 
+15,http://kr.di.uoa.gr/yago2geo/ontology/hasDenomination,Denomination,Denomination
+16,http://kr.di.uoa.gr/yago2geo/ontology/hasCapacity,Capacity,Capacity number
+17,http://kr.di.uoa.gr/yago2geo/ontology/hasHeight,Height,The type of garden
+18,http://kr.di.uoa.gr/yago2geo/ontology/hasBuildingMaterial,BuildingMaterial,Material used to build a building
+19,http://kr.di.uoa.gr/yago2geo/ontology/hasOpeningHours,OpeningHours,Working hours or opening hours
+20,http://kr.di.uoa.gr/yago2geo/ontology/hasWheelchair,Wheelchair,"Wheelchair access, yes or no"
+22,http://kr.di.uoa.gr/yago2geo/ontology/hasYearBuilt,YearBuilt,"Age, the year the building is built"
+23,http://kr.di.uoa.gr/yago2geo/ontology/hasArea,Area,Area of the place
+24,http://kr.di.uoa.gr/yago2geo/ontology/hasPopulation,Population,Population or number of people
+25,http://kr.di.uoa.gr/yago2geo/ontology/hasSmoking,Smoking,Smoking allowed or prohibited
+26,http://kr.di.uoa.gr/yago2geo/ontology/hasService,Service,Service provided by the place
+27,http://kr.di.uoa.gr/yago2geo/ontology/hasCuisine,Cuisine,The type of cuisine for a restaurant or cafe
+28,http://kr.di.uoa.gr/yago2geo/ontology/hasInternetAccess,InternetAccess,Whether internet access provided or not
+29,http://kr.di.uoa.gr/yago2geo/ontology/hasFood,Food,Type of food provided in a cafe

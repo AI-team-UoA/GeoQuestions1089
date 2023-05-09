@@ -1,0 +1,565 @@
+class,label,gloss
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_accountant,accountant office,An office for an accountant.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_accountant,accountant,An office for an accountant.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_advertising_agency,advertising agency,"A service-based business dedicated to creating, planning, and handling advertising."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_advertising_agency,advertising agency office,"A service-based business dedicated to creating, planning, and handling advertising."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_architect,architect,An office for an architect or group of architects.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_architect,architect office,An office for an architect or group of architects.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_association,association,"An office of a non-profit organisation, society, e.g. student, sport, consumer, automobile, bike association, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_association,NGO association,"An office of a non-profit organisation, society, e.g. student, sport, consumer, automobile, bike association, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_association,Non-profit association,"An office of a non-profit organisation, society, e.g. student, sport, consumer, automobile, bike association, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_charity,charity,An office of a charitable organization
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_company,company,An office of a private company
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_consulting,consulting,"An office for a consulting firm, providing expert professional advice to other companies or organisations."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_consulting,consulting office,"An office for a consulting firm, providing expert professional advice to other companies or organisations."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_courier,courier,A courier company
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_courier,courier company,A courier company
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_coworking,coworking,An office where people can go to work (might require a fee); not limited to a single employer
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_coworking,shared workspace,An office where people can go to work (might require a fee); not limited to a single employer
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_educational_institution,educational institution,An office for an educational institution.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_educational_institution,university,An office for an educational institution.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_employment_agency,employment agency,An office for an employment service.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_energy_supplier,energy supplier,An office for a energy supplier.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_engineer,engineering office,An office for an engineer or group of engineers.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_estate_agent,estate agent,A place where you can rent or buy a house.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_estate_agent,real estate,A place where you can rent or buy a house.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_financial,financial company,An office of a company in the financial sector
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_financial_advisor,financial advisor office,A professional who offers financial planning and sells financial services to clients.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_financial_advisor,financial planning office,A professional who offers financial planning and sells financial services to clients.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_forestry,forestry office,A forestry office
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_foundation,foundation,An office of a foundation
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_government,government agency,"An office of a (supra)national, regional or local government agency or department"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_government,government department,"An office of a (supra)national, regional or local government agency or department"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_graphic_design,graphic design,An office of a graphic designer
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_graphic_design,graphic design office,An office of a graphic designer
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_guide,guide office,"An office for tour guides, mountain guides, dive guides, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_guide,tour guide,"An office for tour guides, mountain guides, dive guides, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_harbour_master,harbour master,The Harbour-master's office
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_insurance,insurance office,An office at which you can take out insurance policies.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_insurance,insurance company,An office at which you can take out insurance policies.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_it,IT office,An office for an IT specialist.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_it,information technology office,An office for an IT specialist.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_lawyer,lawyer office,An office for a lawyer.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_lawyer,lawyer,An office for a lawyer.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_logistics,logistics,An office for a forwarder / hauler.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_moving_company,moving company,An office which offers a relocation service.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_newspaper,newspaper,An office of a newspaper
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_ngo,NGO,"An office for a non-profit, non-governmental organisation (NGO)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_ngo,non-profit organization,"An office for a non-profit, non-governmental organisation (NGO)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_ngo,Non-governmental organization,"An office for a non-profit, non-governmental organisation (NGO)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_notary,notary,An office for a notary public (common law)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_political_party,political party,An office of a political party
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_property_management,property management,"Office of a company, which manages a real estate property."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_property_management,real estate company,"Office of a company, which manages a real estate property."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_quango,quango,An office of a quasi-autonomous non-governmental organisation.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_religion,religion,office of a community of faith
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_research,research lab,An office for research and development
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_research,research office,An office for research and development
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_research,R&D office,An office for research and development
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_surveyor,surveyor,"An office of a person doing technical surveys, such as land surveys or risk and damage evaluations of properties and equipment."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_surveyor,surveying office,"An office of a person doing technical surveys, such as land surveys or risk and damage evaluations of properties and equipment."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_tax_advisor,tax advisor,An office for a financial expert specially trained in tax law
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_tax_advisor,financial advisor office,An office for a financial expert specially trained in tax law
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_telecommunication,telecommunication,An office for a telecommunication company
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_telecommunication,telecommunication company,An office for a telecommunication company
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_visa,visa,An office of an organisation or business which offers visa assistance
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_visa,visa assistance,An office of an organisation or business which offers visa assistance
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_water_utility,water utility company,The office for a water utility company or water board.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_office_water_utility,utility company,The office for a water utility company or water board.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_adult_gaming_centre,adult gaming centre,A venue with gambling machines and other pay-to-play games. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_amusement_arcade,amusement arcade,"A venue with pay-to-play games, such as video games, driving simulators, pinball machines, merchandisers, etc. "
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_bandstand,bandstand,An open structure where musical bands can perform concerts.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_beach_resort,beach resort,To mark the boundary of a managed beach.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_bird_hide,bird hide,A place to observe birds.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_bird_hide,bird watch,A place to observe birds.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_bleachers,bleachers,"Raised, tiered rows of benches found at spectator events"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_bowling_alley,bowling alley,A facility that is equipped to play the game of bowling.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_dance,dance,A place to go dancing.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_dance,dance floor,A place to go dancing.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_disc_golf_course,disc golf course,Disc golf course
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_dog_park,dog park,"Designated area, with or without a fenced boundary, where dog-owners are permitted to exercise their pets unrestrained."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_escape_game,escape game,"A physical adventure game in which players solve a series of puzzles using clues, hints and strategy to complete the objectives at hand."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_firepit,firepit,"A permanent location or structure to host campfires, bonfires, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_fishing,fishing,A place for fishing.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_fishing,fishing place,A place for fishing.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_fitness_centre,fitness centre,A place with exercise machines and/or fitness/dance classes.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_fitness_station,fitness station,"A place with exercise machines, single or collection of, outdoor."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_garden,garden,Place where flowers and other plants are grown in a decorative and structured manner or for scientific purposes.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_golf_course,golf course,A golf course.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_hackerspace,hackerspace,"A place where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialize and/or collaborate."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_horse_riding,horse riding,"A facility where people practise horse riding, usually in their spare time, e.g. a riding centre."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_ice_rink,ice rink,A place where you can skate or play ice hockey.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_marina,marina,For mooring leisure yachts and motor boats.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_miniature_golf,miniature golf,A place or area that you can play miniature golf.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_nature_reserve,nature reserve,"Protected area of importance for wildlife, flora, fauna or features of geological or other special interest."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_outdoor_seating,outdoor seating,Areas for outdoor gastronomy.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_park,park,"Open, green area for recreation, usually municipal."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_picnic_table,picnic table,A picnic table
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_pitch,pitch,"A field for playing football, soccer, cricket, baseball, tennis, etc., a riding arena or a skate park. "
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_playground,playground,Playground for little children.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_resort,resort,"A place used for relaxation or recreation, attracting visitors for vacations, tourism and/or going swimming in a pool and/or a nearby body of water."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_sauna,sauna,"A small room or house designed to experience dry or wet heat sessions, or an establishment with one or more of these and auxiliary facilities."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_slipway,slipway,Boats can be launched here.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_sports_centre,sports centre,A distinct facility where a range of sports take place within an enclosed area. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_sports_hall,sports hall,A building that is used as a sports hall.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_stadium,stadium,A major sports arena with substantial tiered seating.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_summer_camp,summer camp,Summer camp is a supervised program for children or teenagers conducted during the summer months in some countries. Children and adolescents who attend summer camp are known as campers.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_swimming_area,swimming area,"A swimming area - place over river, lake or other water reservoir where swimming is allowed."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_swimming_pool,swimming pool,A swimming pool (water area only).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_tanning_salon,tanning salon,Place where customers can use UV lamps to tan their skin.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_track,track,"A track for running, cycling and other non-motorised racing such as horses, greyhounds."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_trampoline_park,trampoline park,An leisure facility consisting of many interlinked trampolines
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_water_park,water park,"An amusement park with features like water slides, recreational pools (e.g. wave pools) or lazy rivers."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_wildlife_hide,wildlife hide,A place to observe wildlife.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_quarter,quarter,"A quarter is a named, geographically localised place within a suburb of a larger city or within a town which is bigger than a neighbourhood"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_neighbourhood,neighbourhood,"A neighbourhood is a smaller named, geographically localised place within a suburb of a larger city or within a town or village"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_city_block,city block,"A named city block, usually surrounded by streets."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_plot,plot,A named plot is a tract or parcel of land owned or meant to be owned by some owner.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_town,town,"An important urban centre, between a village and a city in size."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_village,village,"A smaller distinct settlement, smaller than a town with few facilities available with people traveling to nearby towns to access these."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_hamlet,hamlet,"A smaller rural community, typically with fewer than 100-200 inhabitants, and little infrastructure."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_isolated_dwelling,isolated dwelling,The smallest kind of settlement (1-2 households).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_farm,farm,An individually named farm.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_allotments,allotments,"A separate settlement, which is located outside an officially inhabited locality and has its own addressing"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_continent,continent,"One of the seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_archipelago,archipelago,A named group or chain of closely related islands and islets.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_island,island,Any piece of land that is completely surrounded by water and isolated from other significant landmasses.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_islet,islet,A very small island.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_square,square,"A town or village square: a paved open public space, generally of architectural significance, which is surrounded by buildings in a built-up area such as a city, town or village."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_locality,locality,A named place that has no population.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_apartments,apartments,"A building arranged into individual dwellings, often on separate floors. May also have retail outlets on the ground floor."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_apartments,building,"A building arranged into individual dwellings, often on separate floors. May also have retail outlets on the ground floor."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_bungalow,bungalow,"A single-storey detached small house, Dacha."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_cabin,cabin,"A cabin is a small, roughly built house usually with a wood exterior and typically found in rural areas."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_detached,detached house,"A detached house, a free-standing residential building usually housing a single family."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_dormitory,dormitory,A shared building intended for college/university students (not a share room for multiple occupants as implied by the term in British English).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_farm,farm,A residential building on a farm (farmhouse).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_ger,ger,A permanent or seasonal round yurt or ger used as dwelling.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_hotel,hotel,A building designed with separate rooms available for overnight accommodation. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_house,house,"A dwelling unit inhabited by a single household (a family or small group sharing facilities such as a kitchen). Houses forming half of a semi-detached pair, or one of a row of terraced houses, should share at least two nodes with joined neighbours, thereby defining the party wall between the properties."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_houseboat,houseboat,A boat used primarily as a home
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_residential,residential building,"A general tag for a building used primarily for residential purposes. Where additional detail is available consider using 'apartments', 'terrace', 'house', 'detached' or 'semidetached house'."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_semidetached_house,semidetached house,"A residential house that shares a common wall with another on one side. Typically called a ""duplex"" in American English."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_static_caravan,static caravan,A mobile home (semi)permanently left on a single site
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_terrace,terrace,"A single way used to define the outline of a linear row of residential dwellings, each of which normally has its own entrance, which form a terrace (""row-house"" or ""townhouse"" in North American English). Consider defining each dwelling separately using 'house'."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_commercial,commercial building,"A building for non-specific commercial activities, not necessarily an office building. "
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_industrial,industrial building,A building for industrial purposes. Use warehouse if the purpose is known to be primarily for storage/distribution. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_kiosk,kiosk,A small one-room retail building.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_office,office,An office building.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_retail,retail store,A building primarily used for selling goods that are sold to the public.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_supermarket,supermarket,A building constructed to house a self-service large-area store.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_warehouse,warehouse,A building primarily intended for the storage or goods or as part of a distribution system.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_cathedral,cathedral,A building that was built as a cathedral. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_chapel,chapel,A building that was built as a chapel. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_church,church,A building that was built as a church.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_monastery,monastery,"A building constructed as monastery. Often, monasteries are consisting of several distinct buildings with specific functions."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_mosque,mosque,A building errected as mosque.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_presbytery,presbytery,A building where priests live and work.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_religious,religious building,Unspecific building related to religion. Prefer more specific values if possible.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_shrine,shrine,A building that was built as a shrine.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_synagogue,synagogue,A building that was built as a synagogue.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_temple,temple,A building that was built as a temple.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_bakehouse,bakehouse,A building that was built as a bakehouse (i.e. for baking bread). 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_civic,civic building,A generic tag for a building created to house some civic amenity.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_fire_station,fire station,"A building constructed as fire station, i.e. to house fire fighting equipment and officers, regardless of current use. "
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_government,government building,"For government buildings in general, including municipal, provincial and divisional secretaries, government agencies and departments, town halls, (regional) parliaments and court houses."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_hospital,hospital,A building errected for a hospital. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_public,public place,"A building constructed as accessible to the general public (a town hall, police station, court house, etc.)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_public,public area,"A building constructed as accessible to the general public (a town hall, police station, court house, etc.)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_toilets,toilet,A toilet block.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_train_station,train station,"A building constructed to be a train station building, including buildings that are abandoned and used nowadays for a different purpose."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_transportation,transportation,A building related to public transport.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_kindergarten,kindergarten,For any generic kindergarten buildings. Buildings for specific uses (sports halls etc.) should be tagged for their purpose.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_school,school,A building errected as school. Buildings for specific uses (sports halls etc.) should be tagged for their purpose. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_university,university,A university building. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_college,college,A college building.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_barn,barn,An agricultural building used for storage and as a covered workplace.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_conservatory,conservatory,A building or room having glass or tarpaulin roofing and walls used as an indoor garden or a sunroom (winter garden).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_cowshed,cowshed,"A cowshed (cow barn, cow house) is a building for housing cows, usually found on farms."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_farm_auxiliary,farm auxiliary,A building on a farm that is not a dwelling (use 'farm' or 'house' for the farm house).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_greenhouse,greenhouse,A greenhouse is a glass or plastic covered building used to grow plants.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_slurry_tank,slurry tank,A circular building built to hold a liquid mix of primarily animal excreta (also known as slurry).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_stable,stable,A stable is a building where horses are kept.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_sty,sty,"A sty (pigsty, pig ark, pig-shed) is a building for raising domestic pigs, usually found on farms."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_grandstand,grandstand,"The main stand, usually roofed, commanding the best view for spectators at racecourses or sports grounds."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_pavilion,pavilion,"A sports pavilion usually with changing rooms, storage areas and possibly an space for functions & events. Avoid using this term for other structures called pavilions by architects (see [W] Pavilion)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_riding_hall,riding hall,A building that was built as a riding hall.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_sports_hall,sports hall,A building that was built as a sports hall.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_stadium,stadium,"A building constructed to be a stadium building, including buildings that are abandoned and used nowadays for a different purpose."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_hangar,hangar,"A hangar is a building used for the storage of airplanes, helicopters or space-craft."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_hut,hut,A hut is a small and crude shelter. Note that this word has two meanings.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_shed,shed,"A shed is a simple, single-storey structure in a back garden or on an allotment that is used for storage, hobbies, or as a workshop."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_carport,carport,"A carport is a covered structure used to offer limited protection to vehicles, primarily cars, from the elements. Unlike most structures a carport does not have four walls, and usually has one or two."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_garage,garage,A garage is a building suitable for the storage of one or possibly more motor vehicle or similar.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_garages,garages,A building that consists of a number of discrete storage spaces for different owners/tenants. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_parking,parking,Structure purpose-built for parking cars.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_parking,car park,Structure purpose-built for parking cars.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_digester,digester,A digester is a bioreactor for the production of inflatable biogas from biomass.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_service,service,Service building usually is a small unmanned building with certain machinery (like pumps or transformers).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_transformer_tower,transformer tower,A transformer tower is a characteristic tall building comprising a distribution transformer and constructed to connect directly to a medium voltage overhead power line. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_water_tower,water tower,A water tower
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_military,military,A military building. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_bunker,bunker,A hardened military building. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_bridge,bridge,A building used as a bridge. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_construction,construction,Used for buildings under construction. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_container,container,"For a container used as a permanent building. Do not map containers placed temporarily, for example used in shipping or contraction."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_marquee,marquee,For a tent or easily demountable tent-like building.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_gatehouse,gatehouse,"An entry control point building, spanning over a highway that enters a city or compound."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_roof,roof,"A structure that consists of a roof with open sides, such as a rain shelter, and also gas stations"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_ruins,ruins,"Frequently used for a house or other building that is abandoned and in poor repair. However, some believe this usage is incorrect, and the tag should only be used for buildings constructed as fake ruins (for example sham ruins in an English landscape garden). See also lifecycle tagging."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_tree_house,tree house,"An accommodation, often designed as a small hut, sometimes also as a room or small apartment. Built on tree posts or on a natural tree. A tree house has no contact with the ground. Access via ladders, stairs or bridgeways."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_alpine_hut,alpine hut,"Alpine hut or a mountain hut is a remote building positioned in the mountains designed to provided lodging accommodation for mountaineers, climbers and hikers. The access is usually restricted to foot, mountain bike or ski. Typically, these are operated by an Alpine Club or a similar organisation."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_apartment,apartment,A holiday or vacation apartment is a furnished apartment or flat with cooking and bathroom facilities that can be rented for holiday vacations. This tag can be applied to a building accommodating one or more holiday flats. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_aquarium,aquarium,"An aquarium, meant as Public aquarium is the aquatic counterpart of a zoo with living aquatic animals for public viewing."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_artwork,artwork place,"Artwork is used to tag public pieces of art. Typically, these are outdoors."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_attraction,tourist attraction,Attraction or tourist attraction is a general place of interest for visitors. Typically used for its natural or historical significance. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_attraction,point of interest,Attraction or tourist attraction is a general place of interest for visitors. Typically used for its natural or historical significance. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_camp_pitch,camp pitch,camp pitch is the free space used to place a tent or or caravan within a camp site or caravan site area.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_camp_site,camp site,"Campsite, camp ground or camping pitch is an area where people can temporarily use a shelter, such as a tent, camper van or sometimes a caravan. Typically, the area is spilt into ""pitches"" or ""sites""."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_caravan_site,caravan site,"Caravan site, caravan park or RV park is an area where people with caravans, motorhomes, recreational vehicles can stay overnight, or longer, in allotted spaces known as ""pitches"" or ""sites"". They usually provide facilities including toilets, waste disposal, water supply, power supply etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_chalet,chalet,Chalet is a type of accommodation used in the hospitality industry to describe one or more detached cottages with self-contained cooking facilities and/or bathroom and toilet facilities.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_gallery,art gallery,"Art gallery or art museum is an area or typically a building that displays a variety of visual art exhibitions; The most common exhibits being paintings, sculpture or photography."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_gallery,art museum,"Art gallery or art museum is an area or typically a building that displays a variety of visual art exhibitions; The most common exhibits being paintings, sculpture or photography."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_guest_house,guest house,"Guest houses, similar to a Hostel, provides lodging accommodation without a hotel license that is typically owner-operated. They usually offer a private room served with breakfast, but the staff is not convenient around-the-clock. These range from custom-built guest houses to family-based homes, frequently refer to as a bed and breakfast."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_hostel,hostel,"Hostels provide inexpensive accommodation, typically with them having shared bedrooms, bathrooms, kitchens, and lounges."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_hotel,hotel,"Hotels provide accommodation for guests with usually numbered rooms. Some facilities provided may include a basic bed, storage for clothing and additional guest facilities may include swimming pool, childcare, and conference facilities."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_information,information center,"Information, visitor center or centre, visitor information center or tourist information center is an information source for tourists, travellers and visitors. "
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_information,visitor center,"Information, visitor center or centre, visitor information center or tourist information center is an information source for tourists, travellers and visitors. "
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_motel,motel,"Motel is an abbreviation which is shortened by the term ""motor hotel"". It's an establishment that provides accommodation designed for motorists usually on a short-term basis, with convenient parking for motor cars at or close to the room."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_museum,museum,"Museum is an institution which has exhibitions on scientific, historical, artistic, or cultural artifacts. Typically these are open to the public as a tourist attraction."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_picnic_site,picnic site,"Picnic site is an area that is suitable for eating outdoors and may have a number of facilities within it. For example they might include: toilets, water taps for drinking or cleaning, BBQ grills, benches, table with benches (picnic tables) and covered structures for bad weather. They also may be used on a grassy area that is popular for picnics."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_theme_park,ttheme park,"Theme park or amusement park is an area where entertainment is provided by rides, game concessions, etc., catering to large numbers to people. For example: Disneyland, Magic Kingdom, Universal Studios Florida, Europa Park, and Ocean Park."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,viewpoint,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,overlook,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,observation point,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,lookout,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,viewing point,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,scenic area,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_viewpoint,vista point,"Viewpoint, also known as a overlook, observation point, lookout, viewing point, scenic area or vista point is a place for visitors, often high, with good a scenery view of the surrounding countryside or notable buildings."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_wilderness_hut,wilderness hut,"Wilderness hut or backcountry hut is a remote building, with generally a fireplace, intended to provide temporary shelter and sleeping accommodation. See also Bothy"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_zoo,zoo,Zoo is an abbreviation for a zoological garden or park that has confined animals on display for viewing by the public.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_alcohol,alcohol shop,Shop selling alcohol to take away
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bakery,bakery,Shop focused on selling bread
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_beverages,beverage shop,Shop focused on selling alcoholic and non-alcoholic beverages.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_brewing_supplies,brewing supplies,"Shop focused on selling supplies for home brewing of beer, wine and spirits (where permitted)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_butcher,butcher,Shop focused on selling meat
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_cheese,cheese shop,Shop focused on selling cheese.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_chocolate,chocolat shop,Shop focused on selling chocolate.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_coffee,coffee store,Shop focused on selling coffee.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_confectionery,confectionery shop,Shop focused on selling sweets or candy
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_confectionery,candy shop,Shop focused on selling sweets or candy
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_convenience,convenience store,A small local shop carrying a small subset of the items you would find in a supermarket
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_deli,deli,"Shop focused on selling delicatessen (fine foods, gourmet foods), possibly also fine wine. Not to be confused with the US delis."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_dairy,dairy shop,Shop focused on selling dairy products.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_farm,farmer shop,Shop or roadside stand focused on selling freshly harvested farm produce
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_frozen_food,frozen food store,Shop focused on selling frozen food.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_greengrocer,greengrocery,Shop focused on selling vegetables and fruits.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_greengrocer,green grocery,Shop focused on selling vegetables and fruits.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_health_food,health food store,"A health food shop; selling wholefoods, vitamins, nutrition supplements and meat and dairy alternatives."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_ice_cream,ice cream shop,Shop selling ice cream.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_organic,organic shop,Shop focused on selling organic food.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pasta,pasta shop,"Shop focused on selling (fresh) pasta, ravioli, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pastry,pastry shop,"Shop focused on selling baked sweets like cakes, biscuits, strudel and pies."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_seafood,seafood shop,Shop focused on selling fish/seafood.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_spices,spices shop,Shop focused on selling spices.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_tea,tea store,Shop focused on selling tea.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_water,water store,Shop focused on selling drinking water.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_department_store,department store,A single large store – often multiple storeys high – selling a large variety of goods.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_general,general store,A store that carries a general line of merchandise.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_kiosk,kiosk shop,"A small shop on the pavement that sells magazines, tobacco, newspapers, sweets and stamps."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_mall,shopping mall,A shopping mall – multiple stores under one roof (also known as a shopping centre)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_supermarket,supermarket,Supermarket – a large store with groceries and other items
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_wholesale,wholesale store,Wholesale/warehouse club or cash and carry - a store that sells items in bulk to retailers. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_wholesale,warehouse club,Wholesale/warehouse club or cash and carry - a store that sells items in bulk to retailers. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_baby_goods,baby goods shop,"Shop focused on selling objects for babies (clothes, prams, cots, toys)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bag,bag store,Shop focused on selling bags.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_boutique,boutique,"A small shopping outlet, especially one that specializes in elite and fashionable items"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_clothes,clothes shop,Shop focused on selling clothes and/or underwear (other related value in use is fashion)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_fabric,fabric shop,"Shop focused on selling fabric and other materials for the purpose of making clothes and other products, eg dress making."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_fashion_accessories,fashion accessories store,Shop focused on selling fashion accessories.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_fashion_accessories,fashion store,Shop focused on selling fashion accessories.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_jewelry,jewelry,Jewellers shops.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_jewelry,jewelry shop,Jewellers shops.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_leather,leather shop,Shop focused on selling products made out of leather.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_sewing,sewing shop,"A shop that sells sewing supplies (fabric, thread, yarn, knitting needles, sewing machines, etc.)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_shoes,shoes store,Shop focused on selling shoes.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_tailor,tailor,"A place where clothing is made, repaired, or altered professionally, especially suits and men's clothing"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_watches,watch shop,Shop focused on selling watches.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_wool,wool store,Shop selling wool for making of clothes or other products.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_charity,charity,"A charity shop is a shop operated by a charity, for the purposes of fundraising."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_second_hand,second hand shop,A shop buying and selling used clothes and other things.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_variety_store,variety store,"A variety store retailer is a retail store that sells inexpensive items, sometimes with a single price point for all items in the store."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_beauty,beauty shop,"A non-hairdresser beauty shop, spa, nail salon, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_chemist,chemist,"Shop focused on selling articles of personal hygiene, cosmetics, and household cleaning products."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_cosmetics,cosmetics store,Shop focused on selling cosmetics
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_erotic,erotic store,"Shop focused on selling erotic toys, -clothes or other erotic stuff."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hairdresser,hairdresser,"Here you can get your hair cut, coloured."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hairdresser,barber shop,"Here you can get your hair cut, coloured."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hairdresser_supply,hairdresser supply shop,"A shop, where you can buy hairdressing supplies."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hearing_aids,hearing aids center,Shop focused on selling hearing aids devices
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_herbalist,herbalist shop,"Shop focused on selling herbs, often for medical purposes."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_massage,massage shop,A massage shop
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_medical_supply,medical supply store,Shop focused on selling medical supplies.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_nutrition_supplements,nutrition supplements store,"Shops that sells one or more nutritional supplements (of vitamins, minerals and/or herbs)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_optician,optician,"Shop focused on selling eyeglasses, contact lenses (may also check your eyes)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_perfumery,perfumery shop,Shop focused on selling perfumery
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_tattoo,tattoo parlour,A tattoo parlour.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_agrarian,agrarian shop,"Shop focused on selling agrarian products, like seeds, agricultural machinery, animal feed, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_appliance,appliance store,"Shop focused on selling large electrical items (aka white goods) washing machines, fridges, cookers, ovens, fans, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bathroom_furnishing,bathroom furnishing,Shop focused on selling bathroom furniture and accessories
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_doityourself,tools shop,"Shop focused on selling tools and supplies to do-it-yourself householders, gardening, …"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_electrical,electrical store,Shop focused on selling electrical supplies and devices
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_energy,energy provider,Shop focused on selling energy
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_fireplace,fireplace shop,"Shop focused on selling electric fireplaces, stoves or masonry heaters and required fuels"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_florist,florist,Shop focused on selling bouquets of flowers.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_garden_centre,garden centre,"Shop focused on selling potted flowers, maybe even trees."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_garden_furniture,garden furniture,"Shop focused on selling garden furniture (sheds, outdoor tables, gates, fences, ...)."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_gas,gas shop,"Shop focused on selling technical gas, such as argon, oxygen, acetylene, nitrogen, carbon dioxide, etc. in pressurized containers"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_glaziery,glaziery,Shop focused on selling and installing glazing for windows and doors.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_groundskeeping,groundskeeping shop,"Shop focused on selling outdoor groundskeeping equipment (lawnmowers, chainsaws, small tractors, ..."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hardware,hardware store,"Shop focused on selling building supplies including screws, bolts & paints."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_houseware,houseware store,"Shop focused on selling crockery, cutlery, kitchenware, small household appliances."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_locksmith,locksmith,Shop focused on selling keys.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_paint,paint shop,Shop focused on selling paints.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_security,security store,"Shop focused on selling security items like burglar alarms, vaults, locking systems, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_trade,trade center,"Shop focused on selling one or more building supplies such as timber/wood, cement etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_antiques,antique shop,Shop focused on selling antiques.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bed,bed shop,Shop focused on selling mattresses and other bedding products.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_candles,candle shop,"Shop focused on selling candles and candle accessories (holders, etc)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_carpet,carpet shop,Shop focused on selling carpets
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_curtain,curtain shop,Shop focused on selling curtains or drapes
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_doors,door shop,Shop focused on selling doors
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_flooring,flooring store,Shop focused on selling floorings
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_furniture,furniture store,"Shop focused on selling furniture, might range from small decorational items to a whole flat interior"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_household_linen,household linen store,Shop focused on selling household linen.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_interior_decoration,interior decoration center,Shop focused on selling interior decorations.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_kitchen,kitchen store,"A shop where you can plan and buy your kitchen. (Sometimes called ""kitchen studio"" and the like, but plain kitchen is the most frequently used tag so far.)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_lighting,lighting store,A shop selling lighting fixtures and lamps.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_tiles,tile shop,Shop focused on selling tiles.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_window_blind,window blind store,Shop focused on selling window blinds.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_computer,computer store,"Shop focused on selling computers, peripherals, software, …"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_electronics,electronic store,"Shop focused on selling consumer electronics (TV, radio, …). Larger ones may also sell computers, fridges, …"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hifi,hifi shop,Shop focused on selling High Fidelity or High End environment to listen music or watch films at home
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_mobile_phone,mobile phone shop,Shop focused on selling mobile phones and accessories
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_radiotechnics,radiotechnics shop,"Shop focused on selling electronic components, electrical products, radio measuring devices, supplies for radio and electronics."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_vacuum_cleaner,vacuum cleaner store,Shop focused on selling vacuum cleaners and associated products.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_atv,atv shop,"Shop focused on selling atvs (quads), atv equipment and may rent or repair them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bicycle,bicycle shop,"Shop focused on selling bicycles, bicycle equipment and may rent or repair them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_boat,boat store,"Shop focused on selling boats, boat equipment and may rent or repair them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_car,car store,Car store – a place to buy cars or to get your car repaired
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_car_repair,car repair,Shop focused on car repair (usually independent of a specific car brand).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_car_parts,car parts store,"Shop focused on selling auto parts, auto accessories, motor oil, car chemicals, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_caravan,caravan store,"A shop for caravans, motorhomes & similar recreational vehicles."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_fuel,massage shop,A massage shop
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_fishing,fishing supplies store,Shop focused on selling medical supplies.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_golf,golf shop,"Shops that sells one or more nutritional supplements (of vitamins, minerals and/or herbs)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_hunting,hunting store,Shop focused on selling gun and hunting equipment.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_jetski,jetski store,"Shop focused on selling jetskis, jetski equipment and may rent or repair them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_motorcycle,motorcycle store,"Shop focused on selling motorcycles and/or related accessories, clothes, parts, and rental services."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_outdoor,outdoor equipment shop,"Shop focused on selling camping, walking, climbing, and other outdoor sports equipment (GPSes, etc.)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_scuba_diving,diving equipment store,Shop focused on selling scuba diving equipment.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_ski,ski equipment store,"Shop focused on selling skis, ski equipment and may rent or repair them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_snowmobile,snowmobile store,"Shop focused on selling snowmobiles, snowmobile equipment and may rent or repair them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_sports,sports store,Shop focused on selling sporting goods.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_swimming_pool,swimming equipment store,A store that sells swimming pool equipment and supplies.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_trailer,trailer store,Shop focused on selling trailers and parts and/or repairing / renting them
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_tyres,tyre store,Shop focused on selling tyres.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_art,art store,"Shop which sells works of art. May be paintings, sculpture, or other types of art"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_collector,collector shop,"A shop for different collector's items like stamps, coins, action figures, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_craft,craft supply store,"An arts and crafts supply store. Commonly sold items are paper, canvas, paint, pencils, crafting wood, crafting tools, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_frame,frame shop,Shop focused on selling frames.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_games,game shop,"Shop focused on selling board games, card games and/or role-playing games."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_model,scale model shop,Shop specialising in the sale of scale models.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_music,music store,Shop focused on selling recorded music (vinyl/CDs/...)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_musical_instrument,musical instrument shop,"Shop focused on selling musical instruments, lyrics, scores."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_photo,photo store,Shop focused on selling products or services related with photography.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_camera,camera store,A shop mainly selling cameras and lenses
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_trophy,trophy store,"Store selling trophies, awards, plaques etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_video,video store,Shop focused on selling or renting out videos/DVDs.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_video_games,video games store,Shop focused on selling video games.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_anime,anime shop,Shop focused on selling anime stuff.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_books,book store,Shop focused on selling books.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_gift,gift shop,"Shop focused on selling gifts, greeting cards, or tourist gifts (souvenirs)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_lottery,lottery store,A shop of which the main or only purpose is the sale of lottery tickets.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_newsagent,newsagent shop,"Shop focused on selling newspapers, cigarettes, other goods"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_stationery,stationery store,Shop focused on selling office supplies
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_ticket,ticket store,"Shop focused on selling tickets for concerts, events, public transport, …"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bookmaker,bookmaker shop,A shop that takes bets on sporting and other events at agreed upon odds.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_cannabis,cannabis store,a shop primarily and legally selling non-medical cannabis products
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_copyshop,copyshop,Shop focused on selling photocopying and printing services.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_dry_cleaning,dry cleaning store,Shop or kiosk offering a clothes dry cleaning service. The actual cleaning may be done elsewhere.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_e-cigarette,e-cigarette shop,Shop focused on selling electronic cigarettes.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_funeral_directors,funeral directors center,"Providing services related to funeral arrangements, may also be known as a ""funeral parlour"" or ""undertakers""."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_laundry,laundry service,"A shop to get your normal clothes washed. Might be self service coin operated, with service staff for drop off, …"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_money_lender,money lender service,A money lender offers small personal loans at high rates of interest.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_party,party supply store,"A shop for party and festival supplies, like costumes, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pawnbroker,pawn shop,A pawnbroker (or pawnshop) is an individual or business that offers secured loans to people.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pet,pet store,"A shop for pets, animals and toys or food for them."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pet_grooming,pet grooming service,A shop offering grooming services for pets (most frequently dogs)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pest_control,pest control service,"Shop selling pest control goods to exterminate rats, insects etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_pyrotechnics,pyrotechnics store,"Store of pyrotechnics: fireworks, firecrackers, sparklers etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_religion,religious center,"Shop focused on selling religious articles, church shop."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_storage_rental,storage rental service,self storage
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_tobacco,tobacco store,"Shop focused on selling tobacco, cigarettes and their related accessories."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_toys,toy store,Shop focused on selling toys.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_travel_agency,travel agency,Shop focused on selling tickets for travelling. Also known as a tour operator.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_vacant,vacant store,"Not an actual shop, of course. You may want to use this tag when a shop has been closed, to avoid confusing other mappers who may not know about this. Plus, you can keep the corresponding object and simply edit it when a new shop opens on the same spot."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_weapons,weapon shop,"Shop focused on selling weapons like knives, guns etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_outpost,outpost,Shop primarily used to pick-up items ordered online.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_railway_station,railway station,Railway passenger and/or cargo station. 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_railway_tram_stop,tram stop,A tram stop is a place where a passenger can embark / disembark a tram.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_aircraft,historic aircraft,A decommissioned aircraft which generally remains in one place.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_aqueduct,historic aqueduct,A historic structure to convey water
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_archaeological_site,historic archaeological site,A place in which evidence of past activity is preserved.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_battlefield,historic battlefield,The site of a battle or military skirmish in the past.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_bomb_crater,historic bomb crater,A bomb crater
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_boundary_stone,historic boundary stone,A historic physical marker that identifies a boundary
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_building,historic building,Unspecified historic building.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_cannon,historic cannon,A historic/retired cannon. Usually found on forts or battlefields.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_castle,historic castle,"Used for various kinds of castles, palaces, fortresses, manors, stately homes, kremlins, shiros and other."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_castle_wall,historic castle wall,A fortification surrounding the bailey of a castle
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_charcoal_pile,historic charcoal pile,Historic site of a charcoal pile. Often still in good condition in hilly forest areas.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_church,historic church,A church with a historical value.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_city_gate,historic city gate,A city gate within a city wall
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_citywalls,historic citywalls,A citywall is a fortification used to defend a city.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_farm,historic farm,"A historical farm, kept in its original state."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_fort,historic fort,"A military fort, a stand-alone defensive structure which differs from a castle in that there is no permanent residence"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_gallows,historic gallows,remains of a gallows
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_highwater_mark,historic highwater mark,A marker for indicating past flood
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_locomotive,historic locomotive,A decommissioned locomotive which generally remains in one place
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_manor,historic manor,Historic manors/mansions having different use today
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_memorial,historic memorial,"Small memorials, usually remembering special persons, people who lost their lives in the wars, past events or missing places."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_milestone,historic milestone,A historic marker that shows the distance to important destinations
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_monastery,historic monastery,Building/place that is a historically significant monastery.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_monument,historic monument,"A memorial object, which is especially large, built to remember, show respect to a person or group of people or to commemorate an event."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_optical_telegraph,historic optical telegraph,Semaphore system
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_pa,historic pa,A New Zealand Maori Pā
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_pa,Maori pa,A New Zealand Maori Pā
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_pillory,historic pillory,A pillory.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_railway_car,Historic railway car,A decommissioned railway car which generally remains in one place
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_ruins,historic ruins,"Remains of structures that were once complete, but have fallen into partial or complete disrepair."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_rune_stone,historic rune stone,"Stones, boulders or bedrock with historical runic inscriptions."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_ship,historic ship,A decommissioned ship/submarine which generally remains in one place
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_tank,historic tank,A decommissioned tank which generally remains in one place
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_tomb,historic tomb,A structure where somebody has been buried.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_tower,historic tower,This property distinguishes a tower as historic
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_wayside_cross,historic wayside cross,"A historical cross, symbol of christian faith."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_wayside_shrine,historic wayside shrine,A shrine often showing a religious depiction. Tag is used also for modern shrines.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_wreck,historic wreck,A nautical craft that has been sunk or destroyed.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bar,bar,"Bar is a purpose-built commercial establishment that sells alcoholic drinks to be consumed on the premises. They are characterised by a noisy and vibrant atmosphere, similar to a party and usually don't sell food."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_biergarten,biergarten,"Biergarten or beer garden is an open-air area where alcoholic beverages along with food is prepared and served. See also the description of the tags amenity=pub;bar;restaurant. A biergarten can commonly be found attached to a beer hall, pub, bar, or restaurant."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_cafe,cafe,"Cafe is generally an informal place that offers casual meals and beverages; typically, the focus is on coffee or tea. Also known as a coffeehouse/shop, bistro or sidewalk cafe."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_fast_food,fast food,Fast food restaurant. The kind of food served can be tagged with cuisines and diets.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_food_court,food court,"An area with several different restaurant food counters and a shared eating area. Commonly found in malls, airports, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_ice_cream,ice cream,Ice cream shop or ice cream parlour. A place that sells ice cream and frozen yoghurt over the counter
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_pub,pub,A place selling beer and other alcoholic drinks; may also provide food or accommodation (UK).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_restaurant,restaurant,Restaurant (not fast food). The kind of food served can be tagged with cuisines and diets.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_college,college,Campus or buildings of an institute of Further Education (aka continuing education)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_driving_school,driving school,Driving School which offers motor vehicle driving lessons
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_kindergarten,kindergarten,"For children too young for a regular school (also known as preschool, playschool or nursery school), in some countries including afternoon supervision of primary school children."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_language_school,language_school,Language School is an educational institution where one studies a foreign language.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_library,library,"A public library (municipal, university, …) to borrow books from."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_toy_library,toy library,"A place to borrow games and toys, or play with them on site."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_music_school,music school,"A music school, an educational institution specialized in the study, training, and research of music."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_school,school,"School and grounds - primary, middle and seconday schools."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_university,university,An university campus  an institute of higher education
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bicycle_parking,bicycle parking,Parking for bicycles.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bicycle_repair_station,bicycle repair station,"General tools for self-service bicycle repairs, usually on the roadside; no service"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bicycle_rental,bicycle rental,Rent a bicycle
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_boat_rental,boat rental,Rent a Boat
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_boat_sharing,boat sharing,Share a Boat
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bus_station,bus station,May also be tagged as public_transport station.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_car_rental,car rental,Rent a car
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_car_sharing,car sharing,Share a car
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_car_wash,car wash,Wash a car
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_vehicle_inspection,vehicle inspection,Government vehicle inspection
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_charging_station,charging station,Charging facility for electric vehicles
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_ferry_terminal,ferry terminal,Ferry terminal/stop. A place where people/cars/etc. can board and leave a ferry.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_fuel,fuel,Petrol station; gas station; marine fuel; … Streets to petrol stations are often tagged highway service.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_grit_bin,grit bin,A container that holds grit or a mixture of salt and grit.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_motorcycle_parking,motorcycle parking,Parking for motorcycles
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_parking,parking,Car park. Nodes and areas (without access tag) will get a parking symbol. Areas will be coloured. Streets on car parking are often tagged highway=service and service=parking_aisle.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_parking_entrance,parking entrance,An entrance or exit to an underground or multi-storey parking facility. Group multiple parking entrances together with a relation using the tags type=site and site=parking. Do not mix with amenity=parking.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_parking_space,parking space,A single parking space. Group multiple parking spaces together with a relation using the tags type=site and site=parking. Do not mix with amenity=parking.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_taxi,taxi,A place where taxis wait for passengers.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_atm,atm,ATM or cash point  a device that provides the clients of a financial institution with access to financial transactions.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bank,bank,"Bank or credit union  a financial establishment where customers can deposit and withdraw money, take loans, make investments and transfer funds."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bureau_de_change,bureau de change,"Bureau de change, money changer, currency exchange, Wechsel, cambio – a place to change foreign bank notes and travellers cheques."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_baby_hatch,baby hatch,"A place where a baby can be, out of necessity, anonymously left to be safely cared for and perhaps adopted."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_clinic,clinic,A medium-sized medical facility or health centre.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_dentist,dentist,A dentist practice / surgery.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_doctors,doctors,A doctor's practice / surgery.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_hospital,hospital,A hospital providing in-patient medical treatment. Often used in conjunction with emergency  to note whether the medical centre has emergency facilities.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_nursing_home,nursing_home,Discouraged tag for a home for disabled or elderly persons who need permanent care. Use amenity=social_facility + social_facility=nursing_home now.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_pharmacy,pharmacy,Pharmacy  a shop where a pharmacist sells medications dispensing=yes/no - availability of prescription-only medications
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_social_facility,social facility,"A facility that provides social services  group & nursing homes, workshops for the disabled, homeless shelters, etc."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_veterinary,veterinary,"A place where a veterinary surgeon, also known as a veterinarian or vet, practices."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_arts_centre,arts centre,A venue where a variety of arts are performed or conducted
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_brothel,brothel,An establishment specifically dedicated to prostitution
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_casino,casino,"A gambling venue with at least one table game(e.g. roulette, blackjack) that takes bets on sporting and other events at agreed upon odds."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_cinema,cinema,A place where films are shown (US  movie theater)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_community_centre,community centre,"A place mostly used for local events, festivities and group activities; including special interest and special age groups."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_conference_centre,conference centre,A large building that is used to hold a convention
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_events_venue,events venue,A building specifically used for organising events
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_fountain,fountain,A fountain for cultural / decorational / recreational purposes.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_gambling,gambling,"A place for gambling, not being a shop=bookmaker, shop=lottery, amenity=casino, or leisure=adult_gaming_centre."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_love_hotel,love_hotel,A love hotel is a type of short-stay hotel operated primarily for the purpose of allowing guests privacy for sexual activities.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_nightclub,nightclub,"A place to drink and dance (nightclub). The German word is ""Disco"" or ""Discothek"". Please don't confuse this with the German ""Nachtclub"" which is most likely amenity=stripclub."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_planetarium,planetarium,A planetarium.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_public_bookcase,public_bookcase,A street furniture containing books. Take one or leave one.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_social_centre,social centre,A place for free and not-for-profit activities.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_stripclub,stripclub,A place that offers striptease or lapdancing (for sexual services use amenity=brothel).
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_studio,studio,TV radio or recording studio
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_swingerclub,swingerclub,A club where people meet to have a party and group sex.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_theatre,theatre,"A theatre or opera house where live performances occur, such as plays, musicals and formal concerts. Use amenity=cinema for movie theaters."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_courthouse,courthouse,"A building home to a court of law, where justice is dispensed"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_embassy,embassy,"An embassy, consulate or diplomatic office. Also see office=diplomatic"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_fire_station,fire station,A station of a fire brigade
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_police,police,A police station where police officers patrol from and that is a first point of contact for civilians
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_post_box,post box,A box for the reception of mail. Alternative mail-carriers can be tagged via operator 
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_post_depot,post depot,"Post depot or delivery office, where letters and parcels are collected and sorted prior to delivery."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_post_office,post office,Post office building with postal services
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_prison,prison,A prison or jail where people are incarcerated before trial or after conviction
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_ranger_station,ranger station,"National Park visitor headquarters  official park visitor facility with police, visitor information, permit services, etc"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_townhall,townhall,"Building where the administration of a village, town or city may be located, or just a community meeting place"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bbq,bbq,"BBQ or Barbecue is a permanently built grill for cooking food, which is most typically used outdoors by the public. For example these may be found in city parks or at beaches. Use the tag fuel  to specify the source of heating, such as fuel=wood;electric;charcoal. For mapping nearby table and chairs, see also the tag tourism=picnic_site. For mapping campfires and firepits, instead use the tag leisure=firepit."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bench,bench,A bench to sit down and relax a bit
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_dog_toilet,dog toilet,Area designated for dogs to urinate and excrete.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_drinking_water,drinking water,"Drinking water is a place where humans can obtain potable water for consumption. Typically, the water is used for only drinking. Also known as a drinking fountain or bubbler."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_give_box,give box,A small facility where people drop off and pick up various types of items in the sense of free sharing and reuse.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_shelter,shelter,A small shelter against bad weather conditions. To additionally describe the kind of shelter use shelter_type .
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_shower,shower,Public shower or bath.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_telephone,telephone,Public telephone
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_toilets,toilet,Public toilets (might require a fee)
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_water_point,water point,Place where you can get large amounts of drinking water
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_watering_place,watering place,Place where water is contained and animals can drink
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_sanitary_dump_station,sanitary dump station,A place for depositing human waste from a toilet holding tank.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_recycling,recycling,"Recycling facilities (bottle banks, etc.). Combine with recycling_type=container for containers or recycling_type=centre for recycling centres."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_waste_basket,waste basket,A single small container for depositing garbage that is easily accessible for pedestrians.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_waste_disposal,waste disposal,"A medium or large disposal bin, typically for bagged up household or industrial waste."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_waste_transfer_station,waste transfer station,"A waste transfer station is a location that accepts, consolidates and transfers waste in bulk."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_animal_boarding,animal boarding,"A facility where you, paying a fee, can bring your animal for a limited period of time (e.g. for holidays)"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_animal_breeding,animal breeding,"A facility where animals are bred, usually to sell them"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_animal_shelter,animal shelter,A shelter that recovers animals in trouble
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_baking_oven,baking oven,"An oven used for baking bread and similar, for example inside a building=bakehouse."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_childcare,childcare,A place where children of different ages are looked after which is not an amenity=kindergarten or preschool.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_clock,clock,A public visible clock
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_crematorium,crematorium,A place where dead human bodies are burnt
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_dive_centre,dive centre,A dive center is the base location where sports divers usually start scuba diving or make dive guided trips at new locations.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_funeral_hall,funeral hall,"A place for holding a funeral ceremony, other than a place of worship."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_grave_yard,grave yard,"A (smaller) place of burial, often you'll find a church nearby. Large places should be landuse=cemetery instead."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_gym,gym,Deprecated. Use leisure=fitness_centre or leisure=sports_centre instead. A place which houses exercise equipment for the purpose of physical exercise.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_hunting_stand,hunting stand,A hunting stand  an open or enclosed platform used by hunters to place themselves at an elevated height above the terrain
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_internet_cafe,internet cafe,A place whose principal role is providing internet services to the public.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_kitchen,kitchen,A public kitchen in a facility to use by everyone or customers
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_kneipp_water_cure,kneipp water cure,Outdoor foot bath facility. Usually this is a pool with cold water and handrail. Popular in German speaking countries.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_lounger,lounger,An object for people to lie down.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_marketplace,marketplace,A marketplace where goods and services are traded daily or weekly.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_monastery,monastery,Monastery is the location of a monastery or a building in which monks and nuns live.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_photo_booth,photo booth,Photo Booth – A stand to create instant photo.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_place_of_mourning,place of mourning,"A room or building where families and friends can come, before the funeral, and view the body of the person who has died."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_place_of_worship,place of worship,"A church, mosque, or temple, etc. Note that you also need religion , usually denomination  and preferably name  as well as amenity=place_of_worship."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_public_bath,public bath,"A location where the public may bathe in common, etc. japanese onsen, turkish bath, hot spring"
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_public_building,public building,A generic public building. Don't use! See office=government.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_refugee_site,refugee site,A human settlement sheltering refugees or internally displaced persons
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_vending_machine,vending machine,"A machine selling goods – food, tickets, newspapers, etc. Add type of goods using "

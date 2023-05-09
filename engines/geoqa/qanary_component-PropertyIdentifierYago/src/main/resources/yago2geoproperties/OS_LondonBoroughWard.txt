@@ -1,0 +1,5 @@
+http://kr.di.uoa.gr/yago2geo/ontology/hasOS_Name , OS Name
+http://www.opengis.net/ont/geosparql#sfTouches , Touches
+http://kr.di.uoa.gr/yago2geo/ontology/hasOS_ID , OS ID
+http://www.opengis.net/ont/geosparql#sfWithin , Within
+strdf:area, area

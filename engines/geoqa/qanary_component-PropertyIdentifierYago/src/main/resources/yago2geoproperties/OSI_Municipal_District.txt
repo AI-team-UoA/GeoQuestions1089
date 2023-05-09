@@ -1,0 +1,4 @@
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name , OSI Name
+http://www.opengis.net/ont/geosparql#sfTouches , Touches
+http://www.opengis.net/ont/geosparql#sfWithin , Within
+strdf:area, area

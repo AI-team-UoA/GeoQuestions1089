@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    
+  <modelVersion>4.0.0</modelVersion>
+    
+  <groupId>eu.wdaqua.qanary</groupId>
+    
+  <artifactId>mvn.reactor</artifactId>
+    
+  <version>0.1.1-SNAPSHOT</version>
+    
+  <packaging>pom</packaging>
+    
+  <modules>
+        
+    <module>qanary_component-archetype</module>
+        
+    <module>qanary_commons</module>
+        
+    <module>qanary_pipeline-template</module>
+        
+    <module>qanary_component-template</module>
+        
+    <module>qanary_component-TagMeDisambiguateYago</module>
+        
+    <module>qanary_component-ConceptIdentifierYago</module>
+        
+    <module>qanary_component-RelationDetection</module>
+        
+    <module>qanary_component-PropertyIdentifierYago</module>
+        
+    <module>qanary_component-GeoSparqlGeneratorYago</module>
+      
+  </modules>
+  
+</project>

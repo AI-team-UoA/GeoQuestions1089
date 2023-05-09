@@ -1,0 +1,8 @@
+key,value,description
+highway,primary,The next most important roads in a country's system. (Often link larger towns.)
+highway,secondary,The next most important roads in a country's system. (Often link towns.)
+highway,tertiary,The next most important roads in a country's system. (Often link smaller towns and villages)
+highway,road,"A road, way, street, motorway etc. It can stand for anything ranging from a footpath to a motorway. This tag should only be used temporarily until the road/way/etc."
+highway,bus way,A dedicated roadway for bus rapid transit systems
+aeroway,aerodrome,Aerodrome in the United Kingdom or Airport in North America is used to map the main area details (other than helicopters only).
+aeroway,terminal,Airport terminal is a building at an airport where passengers transfer between ground transportation and the facilities that allow them to board and disembark from aircraft.

@@ -1,0 +1,16 @@
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_forest , Forest
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_park , Park
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_nature_reserve , Nature Reserve
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake , Lake
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_beach , Beach
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_bay , Bay
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_reservoir , Reservoir
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_lagoon , Lagoon
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_oxbow , Oxbow
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_village , Village
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_locality , Locality
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_town , Town
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_island , Island
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_city , City
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_stream , Stream
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_canal , Canal

@@ -1,0 +1,4 @@
+hasLongitude , http://yago-knowledge.org/resource/hasLongitude
+redirectedFrom , http://yago-knowledge.org/resource/redirectedFrom
+wasCreatedOnDate , http://yago-knowledge.org/resource/wasCreatedOnDate
+hasLatitude , http://yago-knowledge.org/resource/hasLatitude

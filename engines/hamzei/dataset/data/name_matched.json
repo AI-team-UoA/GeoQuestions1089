@@ -1,0 +1,835 @@
+{
+  "Queensway Bridge": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Queensway984",
+    "http://kr.di.uoa.gr/yago2geo/resource/Queensway633",
+    "http://kr.di.uoa.gr/yago2geo/resource/Queensway186"
+  ],
+  "Tower of London": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TowerofLondon682"
+  ],
+  "county Lincolnshire": [
+    "http://yago-knowledge.org/resource/Lincolnshire",
+    "http://yago-knowledge.org/resource/Lincolnshire_Kentucky",
+    "http://yago-knowledge.org/resource/Lincolnshire_Illinois"
+  ],
+  "University of Liverpool": [
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofLiverpool287",
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofLiverpool773",
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofLiverpool801",
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofLiverpool373"
+  ],
+  "Trafalgar Square": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TrafalgarSquare2106"
+  ],
+  "City of London": [
+    "http://kr.di.uoa.gr/yago2geo/resource/CityofLondon749",
+    "http://kr.di.uoa.gr/yago2geo/resource/CityofLondon215"
+  ],
+  "city of Salford": [
+    "http://yago-knowledge.org/resource/City_of_Salford"
+  ],
+  "Liverpool": [
+    "http://yago-knowledge.org/resource/Liverpool_New_York",
+    "http://yago-knowledge.org/resource/Liverpool_Texas",
+    "http://yago-knowledge.org/resource/Liverpool",
+    "http://yago-knowledge.org/resource/Liverpool_Illinois"
+  ],
+  "St. Patrick": [
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629425613A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/StPatricks488",
+    "http://kr.di.uoa.gr/yago2geo/resource/St.Patricks973",
+    "http://kr.di.uoa.gr/yago2geo/resource/StPatricks780",
+    "http://kr.di.uoa.gr/yago2geo/resource/StPatricks744"
+  ],
+  "Republic of Ireland": [
+    "http://yago-knowledge.org/resource/Republic_of_Ireland"
+  ],
+  "Salford": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Salfords868",
+    "http://yago-knowledge.org/resource/City_of_Salford",
+    "http://yago-knowledge.org/resource/City_of_Salford",
+    "http://yago-knowledge.org/resource/geoentity_Salford_7292220",
+    "http://kr.di.uoa.gr/yago2geo/resource/SalfordATC145"
+  ],
+  "St. Peter 's Square": [
+    "http://kr.di.uoa.gr/yago2geo/resource/StPetersSquare138",
+    "http://kr.di.uoa.gr/yago2geo/resource/St.PetersSquare674",
+    "http://kr.di.uoa.gr/yago2geo/resource/St.PetersSquare453",
+    "http://kr.di.uoa.gr/yago2geo/resource/TheCafeStPetersSquare696",
+    "http://kr.di.uoa.gr/yago2geo/resource/OneStPetersSquare389"
+  ],
+  "Kensington Palace": [
+    "http://yago-knowledge.org/resource/Kensington_New_York",
+    "http://yago-knowledge.org/resource/Kensington_Kansas",
+    "http://kr.di.uoa.gr/yago2geo/resource/Kensington333",
+    "http://yago-knowledge.org/resource/geoentity_Kensington_Heights_4359765",
+    "http://yago-knowledge.org/resource/Kensington_Minnesota",
+    "http://kr.di.uoa.gr/yago2geo/resource/Kensington911"
+  ],
+  "Wales": [
+    "http://yago-knowledge.org/resource/Wales_Alaska",
+    "http://yago-knowledge.org/resource/Wales",
+    "http://yago-knowledge.org/resource/Wales_North_Dakota",
+    "http://yago-knowledge.org/resource/Wales_Wisconsin",
+    "http://yago-knowledge.org/resource/Wales_South_Yorkshire",
+    "http://yago-knowledge.org/resource/Wales_Utah",
+    "http://yago-knowledge.org/resource/Wales_Massachusetts"
+  ],
+  "High Street": [
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet364",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet602",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet334",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet817",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet250",
+    "http://kr.di.uoa.gr/yago2geo/resource/HIGHSTREET974",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet170",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet330",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet242",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet543",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet309",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet489",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet695",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet103",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet363",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet173",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet524",
+    "http://kr.di.uoa.gr/yago2geo/resource/HighStreet143"
+  ],
+  "Big Ben": [
+    "http://kr.di.uoa.gr/yago2geo/resource/BigBen132"
+  ],
+  "Cheshire": [
+    "http://yago-knowledge.org/resource/Cheshire_Ohio"
+  ],
+  "county Oxfordshire": [
+    "http://yago-knowledge.org/resource/Oxfordshire"
+  ],
+  "county of Durham": [
+    "http://yago-knowledge.org/resource/County_Durham"
+  ],
+  "Wembley stadium": [
+    "http://kr.di.uoa.gr/yago2geo/resource/WembleyStadium344",
+    "http://kr.di.uoa.gr/yago2geo/resource/WembleyStadium247",
+    "http://kr.di.uoa.gr/yago2geo/resource/WembleyStadium713"
+  ],
+  "Baker Street": [
+    "http://kr.di.uoa.gr/yago2geo/resource/BakerStreet660",
+    "http://kr.di.uoa.gr/yago2geo/resource/BakerStreet986",
+    "http://kr.di.uoa.gr/yago2geo/resource/BakerStreet739"
+  ],
+  "Angel": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Angel601",
+    "http://kr.di.uoa.gr/yago2geo/resource/Angel658",
+    "http://kr.di.uoa.gr/yago2geo/resource/Angel457",
+    "http://kr.di.uoa.gr/yago2geo/resource/angel552",
+    "http://kr.di.uoa.gr/yago2geo/resource/Angel937",
+    "http://yago-knowledge.org/resource/geoentity_Angel_2956161"
+  ],
+  "Hammersmith": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Hammersmith263",
+    "http://kr.di.uoa.gr/yago2geo/resource/Hammersmith764"
+  ],
+  "district of Coleraine": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Coleraine552",
+    "http://yago-knowledge.org/resource/Coleraine_Minnesota",
+    "http://kr.di.uoa.gr/yago2geo/resource/Coleraine455",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629DB1013A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629C35113A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Coleraine837"
+  ],
+  "Charlotte Square": [
+    "http://kr.di.uoa.gr/yago2geo/resource/CharlotteSquare837",
+    "http://kr.di.uoa.gr/yago2geo/resource/CharlotteSquare393"
+  ],
+  "River Shannon": [
+    "http://yago-knowledge.org/resource/Shannon_County_Clare",
+    "http://yago-knowledge.org/resource/Shannon_Mississippi",
+    "http://yago-knowledge.org/resource/Shannon_Quebec",
+    "http://kr.di.uoa.gr/yago2geo/resource/Shannon661",
+    "http://yago-knowledge.org/resource/geoentity_Shannon_River_6145200",
+    "http://yago-knowledge.org/resource/Shannon_Island",
+    "http://yago-knowledge.org/resource/Shannon_Illinois"
+  ],
+  "Berkshire": [
+    "http://yago-knowledge.org/resource/geoentity_Berkshire_Creek_5713701",
+    "http://yago-knowledge.org/resource/geoentity_Berkshire_Slough_5713703",
+    "http://kr.di.uoa.gr/yago2geo/resource/BerkshirePhab637",
+    "http://kr.di.uoa.gr/yago2geo/resource/Home481",
+    "http://kr.di.uoa.gr/yago2geo/resource/TheBerkshireStand546"
+  ],
+  "Prince 's Street": [
+    "http://kr.di.uoa.gr/yago2geo/resource/PrincesStreet877"
+  ],
+  "Thames river": [
+    "http://yago-knowledge.org/resource/geoentity_North_Thames_River_6090712",
+    "http://yago-knowledge.org/resource/geoentity_Middle_Thames_River_6073283",
+    "http://yago-knowledge.org/resource/geoentity_North_Thames_River_6090712",
+    "http://yago-knowledge.org/resource/geoentity_Middle_Thames_River_6073283"
+  ],
+  "Mercure Hotel": [
+    "http://kr.di.uoa.gr/yago2geo/resource/MercureHotelHeathrow995"
+  ],
+  "Wharfside Way": [
+    "http://kr.di.uoa.gr/yago2geo/resource/WharfsideHouse869"
+  ],
+  "Saint George 's Hotel": [
+    "http://kr.di.uoa.gr/yago2geo/resource/SaintGeorges687",
+    "http://kr.di.uoa.gr/yago2geo/resource/SaintGeorges168",
+    "http://kr.di.uoa.gr/yago2geo/resource/SaintGeorges526",
+    "http://kr.di.uoa.gr/yago2geo/resource/SaintGeorges469",
+    "http://kr.di.uoa.gr/yago2geo/resource/SaintGeorges358",
+    "http://kr.di.uoa.gr/yago2geo/resource/SaintGeorges724"
+  ],
+  "county Dorset": [
+    "http://yago-knowledge.org/resource/Dorset"
+  ],
+  "Highland council area": [
+    "http://yago-knowledge.org/resource/Highland_council_area"
+  ],
+  "Central Park hotel": [
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335559",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4751802",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4680195",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4680189",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851040",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark239",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5575641",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887074",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335553",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark275",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark224",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5644348",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_7168079",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887077",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887071",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8857130",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark360",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark321",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887084",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851049",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8152142",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark661",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4508259",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark906",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020797",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4269350",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5248244",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4918883",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark881",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark138",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887079",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_7119247",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5718586",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5694161",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5248243",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851039",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark528",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4612554",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851038",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851036",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4988437",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851041",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark549",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887072",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5149676",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4508260",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887073",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5588497",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4269349",
+    "http://yago-knowledge.org/resource/Central_Park_Louisville",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4105242",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335558",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4932634",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4150536",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335565",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335555",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4680192",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4680193",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5518634",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_6347481",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_7149475",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851052",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_6347332",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark241",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887076",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887086",
+    "http://yago-knowledge.org/resource/geoentity_Woodrow_Wilson_Park_4098473",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851053",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887081",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5289170",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4287458",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335552",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4988439",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileePark749",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887080",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335566",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020791",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_7118218",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020794",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4988436",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887067",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark476",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020800",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020795",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark499",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5065463",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4235555",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5149678",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851037",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5149680",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4380812",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5112086",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4380814",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_10377780",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887075",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark540",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335560",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5518633",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark992",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_7201809",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark405",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335564",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851048",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4380813",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5065464",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851043",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark793",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5289171",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4460049",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark359",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8857128",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark328",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4574187",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851045",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5149677",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020790",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020792",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark124",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8050986",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851055",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887069",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887087",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8152339",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8152340",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5694160",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851051",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335563",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark509",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4680190",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark508",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4235553",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335554",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4887068",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020799",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335561",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_-_John_Landy_Oval_8857129",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020805",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4269347",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851054",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5020802",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5248245",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8152143",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_4851050",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335557",
+    "http://yago-knowledge.org/resource/geoentity_Milton_Votee_Park_5101257",
+    "http://kr.di.uoa.gr/yago2geo/resource/CentralPark413",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5335551",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_8477776",
+    "http://yago-knowledge.org/resource/geoentity_Central_Park_5588498"
+  ],
+  "county of Antrim": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Antrim871",
+    "http://yago-knowledge.org/resource/geoentity_Antrim_Center_5082699",
+    "http://kr.di.uoa.gr/yago2geo/resource/Antrim556",
+    "http://yago-knowledge.org/resource/Antrim_County_Michigan",
+    "http://kr.di.uoa.gr/yago2geo/resource/Antrim598",
+    "http://kr.di.uoa.gr/yago2geo/resource/Antrim188"
+  ],
+  "county of Greater Manchester": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TransportforGreaterManchester733",
+    "http://yago-knowledge.org/resource/Warburton_Greater_Manchester",
+    "http://yago-knowledge.org/resource/Worthington_Greater_Manchester",
+    "http://kr.di.uoa.gr/yago2geo/resource/CheshireGreaterManchesterCRC835",
+    "http://kr.di.uoa.gr/yago2geo/resource/GreenGreaterManchesterGarden667"
+  ],
+  "Anfield stadium": [
+    "http://kr.di.uoa.gr/yago2geo/resource/AnfieldStadium274"
+  ],
+  "county Donegal": [
+    "http://yago-knowledge.org/resource/County_Donegal"
+  ],
+  "Great Britain": [
+    "http://yago-knowledge.org/resource/geoentity_Great_Britain_2648147"
+  ],
+  "Old Trafford Stadium": [
+    "http://kr.di.uoa.gr/yago2geo/resource/OldTrafford826"
+  ],
+  "York": [
+    "http://yago-knowledge.org/resource/York_Alabama",
+    "http://yago-knowledge.org/resource/geoentity_Yorkwood_4500263",
+    "http://yago-knowledge.org/resource/York_North_Dakota",
+    "http://yago-knowledge.org/resource/Yorklyn_Pennsylvania",
+    "http://yago-knowledge.org/resource/York",
+    "http://kr.di.uoa.gr/yago2geo/resource/York282"
+  ],
+  "Guinness Brewery": [
+    "http://kr.di.uoa.gr/yago2geo/resource/GuinnessBrewery992",
+    "http://kr.di.uoa.gr/yago2geo/resource/GuinnessBrewery337"
+  ],
+  "county Greater Manchester": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TransportforGreaterManchester733",
+    "http://yago-knowledge.org/resource/Warburton_Greater_Manchester",
+    "http://yago-knowledge.org/resource/Worthington_Greater_Manchester",
+    "http://kr.di.uoa.gr/yago2geo/resource/CheshireGreaterManchesterCRC835",
+    "http://kr.di.uoa.gr/yago2geo/resource/GreenGreaterManchesterGarden667"
+  ],
+  "Elizabeth Tower": [
+    "http://yago-knowledge.org/resource/geoentity_Elizabethport_5097603",
+    "http://yago-knowledge.org/resource/Elizabeth_Colorado",
+    "http://yago-knowledge.org/resource/Elizabeth_Illinois",
+    "http://yago-knowledge.org/resource/Elizabeth_Minnesota",
+    "http://yago-knowledge.org/resource/Elizabeth_Louisiana",
+    "http://yago-knowledge.org/resource/Elizabeth_Indiana"
+  ],
+  "Edinburgh": [
+    "http://yago-knowledge.org/resource/Edinburgh",
+    "http://yago-knowledge.org/resource/Edinburgh_Indiana"
+  ],
+  "St. John the Baptist church": [
+    "http://kr.di.uoa.gr/yago2geo/resource/StJohntheBaptistChurch909",
+    "http://kr.di.uoa.gr/yago2geo/resource/St.JohntheBaptistsChurch301",
+    "http://kr.di.uoa.gr/yago2geo/resource/StJohnTheBaptistChurch747",
+    "http://kr.di.uoa.gr/yago2geo/resource/StJohnTheBaptistChurch913",
+    "http://kr.di.uoa.gr/yago2geo/resource/StJohntheBaptistChurch476"
+  ],
+  "Alnwick Castle": [
+    "http://kr.di.uoa.gr/yago2geo/resource/AlnwickCastle295",
+    "http://kr.di.uoa.gr/yago2geo/resource/AlnwickCastle366"
+  ],
+  "country Scotland": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Scotland270",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A3FBF13A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A307613A3E055000000000001",
+    "http://yago-knowledge.org/resource/Scotland_Georgia",
+    "http://yago-knowledge.org/resource/Scotland_Texas",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE196299AB813A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629951313A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Scotland185"
+  ],
+  "Britain": [
+    "http://yago-knowledge.org/resource/geoentity_New_Britain_Island_2089703",
+    "http://yago-knowledge.org/resource/geoentity_Great_Britain_2648147",
+    "http://kr.di.uoa.gr/yago2geo/resource/GloriousBritain386",
+    "http://kr.di.uoa.gr/yago2geo/resource/TastesofBritain495",
+    "http://kr.di.uoa.gr/yago2geo/resource/GloriousBritain781"
+  ],
+  "county Essex": [
+    "http://yago-knowledge.org/resource/Essex_Connecticut",
+    "http://yago-knowledge.org/resource/Essex_County_Virginia",
+    "http://yago-knowledge.org/resource/Essex_County_Massachusetts",
+    "http://yago-knowledge.org/resource/Essex_County_New_York",
+    "http://yago-knowledge.org/resource/Essex_Illinois",
+    "http://yago-knowledge.org/resource/Essex_Missouri",
+    "http://yago-knowledge.org/resource/Essex",
+    "http://yago-knowledge.org/resource/Essex_County_New_Jersey",
+    "http://yago-knowledge.org/resource/Essex_Iowa",
+    "http://yago-knowledge.org/resource/Essex_County_Vermont"
+  ],
+  "Everton FC": null,
+  "Loch Ness": [
+    "http://yago-knowledge.org/resource/Loch_Ness"
+  ],
+  "monument of Great Fire of London": [
+    "http://kr.di.uoa.gr/yago2geo/resource/GreatFireofLondonMonument888"
+  ],
+  "Cavan": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan878",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629B0A713A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan331",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan293",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629AB8413A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Cavan_3310684",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629A39313A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Cavan_3309898",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan351",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan942",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan212",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan460",
+    "http://kr.di.uoa.gr/yago2geo/resource/Cavan974",
+    "http://yago-knowledge.org/resource/geoentity_Cavan_3308917",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629C27F13A3E055000000000001"
+  ],
+  "Emirates Stadium": [
+    "http://kr.di.uoa.gr/yago2geo/resource/EmiratesStadium371"
+  ],
+  "England": [
+    "http://kr.di.uoa.gr/yago2geo/resource/England737",
+    "http://yago-knowledge.org/resource/England",
+    "http://yago-knowledge.org/resource/England_Arkansas"
+  ],
+  "Piccadilly Gardens": [
+    "http://kr.di.uoa.gr/yago2geo/resource/PiccadillyGardens293"
+  ],
+  "Manchester": [
+    "http://yago-knowledge.org/resource/geoentity_Manchester_Mobile_Home_Park_7239973",
+    "http://yago-knowledge.org/resource/Manchester_New_Hampshire",
+    "http://yago-knowledge.org/resource/Manchester_Missouri",
+    "http://yago-knowledge.org/resource/geoentity_Manchester_5199634",
+    "http://yago-knowledge.org/resource/Manchester_Kansas",
+    "http://yago-knowledge.org/resource/Manchester_Ohio",
+    "http://yago-knowledge.org/resource/geoentity_Manchester_5036390",
+    "http://yago-knowledge.org/resource/geoentity_Manchester_Depot_5238271",
+    "http://yago-knowledge.org/resource/Manchester_Maryland",
+    "http://yago-knowledge.org/resource/Manchester",
+    "http://yago-knowledge.org/resource/Manchester_Michigan",
+    "http://yago-knowledge.org/resource/Manchester_Illinois",
+    "http://yago-knowledge.org/resource/Manchester_Oklahoma",
+    "http://yago-knowledge.org/resource/Manchester_Georgia"
+  ],
+  "river Thames": [
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames799",
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames911",
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames655",
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames709",
+    "http://kr.di.uoa.gr/yago2geo/resource/GeorgeIIIandtheRiverThames289"
+  ],
+  "Stonehenge": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Stonehenge303"
+  ],
+  "St. Anthony the Great": [
+    "http://kr.di.uoa.gr/yago2geo/resource/St.AnthonytheGreatSt.JohntheBaptist119",
+    "http://kr.di.uoa.gr/yago2geo/resource/St.AnthonytheGreatSt.JohntheBaptist707"
+  ],
+  "Scotland": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Scotland270",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A3FBF13A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A307613A3E055000000000001",
+    "http://yago-knowledge.org/resource/Scotland_Georgia",
+    "http://yago-knowledge.org/resource/Scotland_Texas",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE196299AB813A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629951313A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Scotland185"
+  ],
+  "King William Street": [
+    "http://kr.di.uoa.gr/yago2geo/resource/KingWilliamStreet735"
+  ],
+  "United Kingdom": [
+    "http://yago-knowledge.org/resource/United_Kingdom"
+  ],
+  "Jubilee Gardens": [
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens824",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens358",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens405",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens339",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens680",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens559",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens255",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens753",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens916",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens397",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens722",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens436",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens825",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens142",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens490",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens414",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens270",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens919",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens838",
+    "http://kr.di.uoa.gr/yago2geo/resource/JubileeGardens351"
+  ],
+  "county Chesire": [
+    "http://yago-knowledge.org/resource/Smallwood_Cheshire",
+    "http://yago-knowledge.org/resource/Croft_Cheshire"
+  ],
+  "Calton Hill": [
+    "http://kr.di.uoa.gr/yago2geo/resource/CaltonHill267"
+  ],
+  "Waterloo Bridge": [
+    "http://kr.di.uoa.gr/yago2geo/resource/WaterlooBridge709",
+    "http://kr.di.uoa.gr/yago2geo/resource/LondonWaterloo348",
+    "http://kr.di.uoa.gr/yago2geo/resource/WaterlooBridge336"
+  ],
+  "river Exe": [
+    "http://kr.di.uoa.gr/yago2geo/resource/RiverExe382"
+  ],
+  "Barnes district": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Barnes777",
+    "http://kr.di.uoa.gr/yago2geo/resource/Barnes700",
+    "http://yago-knowledge.org/resource/geoentity_Barnes_4267913",
+    "http://kr.di.uoa.gr/yago2geo/resource/Barnes118"
+  ],
+  "Hampshire": [
+    "http://yago-knowledge.org/resource/Hampshire",
+    "http://yago-knowledge.org/resource/geoentity_Hampshire_4895016"
+  ],
+  "Cardiff": [
+    "http://yago-knowledge.org/resource/Cardiff",
+    "http://yago-knowledge.org/resource/Cardiff_Alabama"
+  ],
+  "Grafton Street": [
+    "http://kr.di.uoa.gr/yago2geo/resource/GraftonStreet967"
+  ],
+  "London": [
+    "http://yago-knowledge.org/resource/London_Arkansas",
+    "http://kr.di.uoa.gr/yago2geo/resource/London860",
+    "http://kr.di.uoa.gr/yago2geo/resource/London944",
+    "http://kr.di.uoa.gr/yago2geo/resource/London614",
+    "http://yago-knowledge.org/resource/London_Ontario",
+    "http://yago-knowledge.org/resource/London_Colney",
+    "http://yago-knowledge.org/resource/London_California"
+  ],
+  "British Museum": [
+    "http://kr.di.uoa.gr/yago2geo/resource/BritishMuseum382"
+  ],
+  "Edinburgh Castle": [
+    "http://kr.di.uoa.gr/yago2geo/resource/EdinburghCastle765",
+    "http://kr.di.uoa.gr/yago2geo/resource/EdinburghCastle861",
+    "http://kr.di.uoa.gr/yago2geo/resource/EdinburghCastle508"
+  ],
+  "Lancashire": [
+    "http://yago-knowledge.org/resource/Lancashire"
+  ],
+  "University of Westminster": [
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofWestminster593",
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofWestminster531",
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofWestminster485",
+    "http://kr.di.uoa.gr/yago2geo/resource/UniversityofWestminster889"
+  ],
+  "Stirling Castle": [
+    "http://kr.di.uoa.gr/yago2geo/resource/StirlingCastle287",
+    "http://kr.di.uoa.gr/yago2geo/resource/StirlingCastle201"
+  ],
+  "Wellesbourne village": [
+    "http://yago-knowledge.org/resource/Wellesbourne",
+    "http://kr.di.uoa.gr/yago2geo/resource/Wellesbourne302"
+  ],
+  "Northampton": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Northampton118",
+    "http://kr.di.uoa.gr/yago2geo/resource/Northampton715",
+    "http://yago-knowledge.org/resource/Northampton",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A40A813A3E055000000000001"
+  ],
+  "Belfast": [
+    "http://kr.di.uoa.gr/yago2geo/resource/IKEA788",
+    "http://kr.di.uoa.gr/yago2geo/resource/BelfastCastle459",
+    "http://kr.di.uoa.gr/yago2geo/resource/BrewedBelfast236",
+    "http://kr.di.uoa.gr/yago2geo/resource/BelfastTemple926",
+    "http://kr.di.uoa.gr/yago2geo/resource/SpiritofBelfast646"
+  ],
+  "Herefordshire": [
+    "http://yago-knowledge.org/resource/Herefordshire"
+  ],
+  "county Durham": [
+    "http://yago-knowledge.org/resource/County_Durham"
+  ],
+  "county Cheshire": [
+    "http://yago-knowledge.org/resource/Cheshire_County_New_Hampshire",
+    "http://yago-knowledge.org/resource/Cheshire_Ohio"
+  ],
+  "Derry": [
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629DD2913A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Derry_Village_5085382",
+    "http://kr.di.uoa.gr/yago2geo/resource/Derry306",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A1BB413A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Derry479",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629C89D13A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE196299BF813A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Derry_3315420",
+    "http://kr.di.uoa.gr/yago2geo/resource/Derry329",
+    "http://yago-knowledge.org/resource/geoentity_Derry_10277847",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A1BB513A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A440913A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Derry_3311927",
+    "http://kr.di.uoa.gr/yago2geo/resource/Derry739",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A09B213A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Derry675",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629D0C913A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629F6CA13A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Derry_2964820",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629AE2E13A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Londonderry161",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962992D813A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Derry_3309499",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A09D113A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629DD4B13A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Londonderry795",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A1BB713A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A09D013A3E055000000000001",
+    "http://yago-knowledge.org/resource/geoentity_Derry_3304253"
+  ],
+  "county Suffolk": [
+    "http://yago-knowledge.org/resource/Suffolk_County_Massachusetts",
+    "http://yago-knowledge.org/resource/geoentity_Suffolk_Trailer_Park_4788162",
+    "http://yago-knowledge.org/resource/Suffolk"
+  ],
+  "Burnley": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Burnley855"
+  ],
+  "Glasgow": [
+    "http://yago-knowledge.org/resource/Glasgow_West_Virginia",
+    "http://yago-knowledge.org/resource/Glasgow_Illinois",
+    "http://yago-knowledge.org/resource/Glasgow_Missouri",
+    "http://yago-knowledge.org/resource/Glasgow_Virginia"
+  ],
+  "Trafalgar square": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TrafalgarSquare2106"
+  ],
+  "Islington": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Islington383"
+  ],
+  "county Down": [
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629F70113A3E055000000000001",
+    "http://kr.di.uoa.gr/yago2geo/resource/Down815"
+  ],
+  "Castle of Edinburgh": [
+    "http://yago-knowledge.org/resource/Edinburgh_Indiana",
+    "http://kr.di.uoa.gr/yago2geo/resource/EdinburghCastle765",
+    "http://yago-knowledge.org/resource/Edinburgh",
+    "http://kr.di.uoa.gr/yago2geo/resource/EdinburghCastle861",
+    "http://kr.di.uoa.gr/yago2geo/resource/EdinburghCastle508"
+  ],
+  "London Bridge": [
+    "http://kr.di.uoa.gr/yago2geo/resource/LondonBridge713",
+    "http://kr.di.uoa.gr/yago2geo/resource/LondonBridge254"
+  ],
+  "Dublin": [
+    "http://yago-knowledge.org/resource/Dublin_Virginia",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962911B913A3E055000000000001",
+    "http://yago-knowledge.org/resource/Dublin_South_Australia",
+    "http://yago-knowledge.org/resource/Dublin_California",
+    "http://yago-knowledge.org/resource/South_Dublin",
+    "http://yago-knowledge.org/resource/Dublin_Ohio",
+    "http://yago-knowledge.org/resource/Dublin",
+    "http://yago-knowledge.org/resource/Dublin_North_Carolina",
+    "http://yago-knowledge.org/resource/Dublin_Indiana"
+  ],
+  "Essex": [
+    "http://yago-knowledge.org/resource/Essex_Connecticut",
+    "http://yago-knowledge.org/resource/Essex_Illinois",
+    "http://yago-knowledge.org/resource/Essex_Missouri",
+    "http://yago-knowledge.org/resource/Essex",
+    "http://yago-knowledge.org/resource/Essex_Iowa"
+  ],
+  "St. David 's": [
+    "http://kr.di.uoa.gr/yago2geo/resource/osentity_St_Davids_WCWR240",
+    "http://kr.di.uoa.gr/yago2geo/resource/StDavids953",
+    "http://kr.di.uoa.gr/yago2geo/resource/StDavids217",
+    "http://kr.di.uoa.gr/yago2geo/resource/StDavids386",
+    "http://kr.di.uoa.gr/yago2geo/resource/StDavids843"
+  ],
+  "Somerset": [
+    "http://yago-knowledge.org/resource/Somerset_Ohio",
+    "http://yago-knowledge.org/resource/Somerset_town_Wisconsin",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE1962A3EB413A3E055000000000001",
+    "http://yago-knowledge.org/resource/Somerset_Texas",
+    "http://yago-knowledge.org/resource/Somerset",
+    "http://yago-knowledge.org/resource/Somerset_Manitoba",
+    "http://yago-knowledge.org/resource/Somerset_Maryland"
+  ],
+  "Westmorland": [
+    "http://yago-knowledge.org/resource/Westmorland_California"
+  ],
+  "Buckinghamshire": [
+    "http://yago-knowledge.org/resource/Buckinghamshire"
+  ],
+  "Abercromby Square": [
+    "http://kr.di.uoa.gr/yago2geo/resource/AbercrombySquare238"
+  ],
+  "Ireland": [
+    "http://yago-knowledge.org/resource/Irelands_Eye",
+    "http://kr.di.uoa.gr/yago2geo/resource/Ireland877",
+    "http://kr.di.uoa.gr/yago2geo/resource/Ireland530"
+  ],
+  "Old Trafford stadium": [
+    "http://kr.di.uoa.gr/yago2geo/resource/OldTrafford826"
+  ],
+  "county West Yorkshire": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TriumphWestYorkshire556",
+    "http://yago-knowledge.org/resource/Oxenhope",
+    "http://yago-knowledge.org/resource/Kippax_West_Yorkshire",
+    "http://yago-knowledge.org/resource/Woolley_West_Yorkshire",
+    "http://yago-knowledge.org/resource/Darrington_West_Yorkshire"
+  ],
+  "Merseyside": [
+    "http://yago-knowledge.org/resource/Rainford",
+    "http://yago-knowledge.org/resource/Garswood",
+    "http://yago-knowledge.org/resource/Cronton",
+    "http://yago-knowledge.org/resource/Rainhill",
+    "http://yago-knowledge.org/resource/Whiston_Merseyside"
+  ],
+  "Elephant and Castle underground station": [
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle858",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle319",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle395",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle509",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle696",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle197",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantAndCastle273",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle128",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle261",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle549",
+    "http://kr.di.uoa.gr/yago2geo/resource/ElephantandCastle569"
+  ],
+  "Oxford": [
+    "http://yago-knowledge.org/resource/Oxford_Michigan",
+    "http://yago-knowledge.org/resource/Oxford_Alabama",
+    "http://kr.di.uoa.gr/yago2geo/resource/osientity_2AE19629B1DE13A3E055000000000001",
+    "http://yago-knowledge.org/resource/Oxford_Massachusetts",
+    "http://yago-knowledge.org/resource/Oxford_New_York",
+    "http://yago-knowledge.org/resource/Oxford_Indiana",
+    "http://yago-knowledge.org/resource/Oxford",
+    "http://yago-knowledge.org/resource/Oxford_Idaho",
+    "http://yago-knowledge.org/resource/Oxford_Kansas",
+    "http://yago-knowledge.org/resource/Oxford_Iowa",
+    "http://yago-knowledge.org/resource/Oxford_Nebraska",
+    "http://yago-knowledge.org/resource/Oxford_Georgia",
+    "http://yago-knowledge.org/resource/Oxford_Maryland",
+    "http://yago-knowledge.org/resource/Oxford_Ohio",
+    "http://yago-knowledge.org/resource/Oxford_Wisconsin",
+    "http://kr.di.uoa.gr/yago2geo/resource/Oxford345",
+    "http://yago-knowledge.org/resource/Oxford_Arkansas"
+  ],
+  "Solway Firth": [],
+  "Northern Ireland": [
+    "http://yago-knowledge.org/resource/Northern_Ireland"
+  ],
+  "Bristol": [
+    "http://yago-knowledge.org/resource/Bristol_Quebec",
+    "http://kr.di.uoa.gr/yago2geo/resource/Bristol618",
+    "http://kr.di.uoa.gr/yago2geo/resource/Bristol478",
+    "http://yago-knowledge.org/resource/Bristol_Indiana",
+    "http://yago-knowledge.org/resource/Bristol"
+  ],
+  "Tower Bridge": [
+    "http://kr.di.uoa.gr/yago2geo/resource/TowerBridge599",
+    "http://kr.di.uoa.gr/yago2geo/resource/TowerBridge155",
+    "http://kr.di.uoa.gr/yago2geo/resource/TowerBridge815",
+    "http://kr.di.uoa.gr/yago2geo/resource/TowerBridge247"
+  ],
+  "Isle of Wight": [
+    "http://yago-knowledge.org/resource/Isle_of_Wight"
+  ],
+  "Loch Goil": null,
+  "River Thames": [
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames799",
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames911",
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames655",
+    "http://kr.di.uoa.gr/yago2geo/resource/EnjoyingtheRiverThames709",
+    "http://kr.di.uoa.gr/yago2geo/resource/GeorgeIIIandtheRiverThames289"
+  ],
+  "Hammersmith Bridge": [
+    "http://kr.di.uoa.gr/yago2geo/resource/Hammersmith263",
+    "http://kr.di.uoa.gr/yago2geo/resource/Hammersmith764"
+  ],
+  "South Yorkshire": [
+    "http://kr.di.uoa.gr/yago2geo/resource/BentleySouthYorkshire561",
+    "http://kr.di.uoa.gr/yago2geo/resource/SheffieldAuctions418",
+    "http://kr.di.uoa.gr/yago2geo/resource/SwintonSouthYorkshire136",
+    "http://yago-knowledge.org/resource/Armthorpe",
+    "http://yago-knowledge.org/resource/Orgreave_South_Yorkshire"
+  ],
+  "county of Armagh": [
+    "http://yago-knowledge.org/resource/Armagh_Quebec"
+  ]
+}

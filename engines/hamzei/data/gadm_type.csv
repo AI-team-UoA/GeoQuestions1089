@@ -1,0 +1,44 @@
+class,label,gloss
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Kingdom,Kingdom,"a country, state, or territory ruled by a king or queen."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Kingdom,Country,"a country, state, or territory ruled by a king or queen."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Province,Province,a principal administrative division of a country or empire.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Province,State,a principal administrative division of a country or empire.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Principality,Principality,a state ruled by a prince.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Principality,State,a state ruled by a prince.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough,Metropolitan Borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough,Borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough,Metropolitan District,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority,Unitary Authority,A unitary authority is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough_City,Metropolitan City,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan city."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough_City,Borough City,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan city."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough_City,City,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan city."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority_City,City,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Administrative_County,Administrative County,An administrative county was a first-level administrative division in England and Wales
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Administrative_County,County,An administrative county was a first-level administrative division in England and Wales
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Region,Region,"A region in England, Wales or Scotland."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority_County,County,A unitary authority county is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority_County,Unitary Authority County,A unitary authority county is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_District,District,A district is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_District_City,City,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_District_City,Unitary District,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_District,Unitary District,A unitary authority is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Island_area,Island,Islands 
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Island_area,Island area,Islands 
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_borough,Borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan city."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_borough,Metropolitan Borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan city."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority,Unitary authority,A unitary authority is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_borough_city,city,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan city."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority_city,city,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Administrative_county_district,county district,An administrative county was a first-level administrative division in England and Wales
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Administrative_county_district,State,An administrative county was a first-level administrative division in England and Wales
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Administrative_county_district,Administrative county district,An administrative county was a first-level administrative division in England and Wales
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_London_borough,London borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_London_borough_royal,London borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_London_borough_royal,royal borough,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_London_borough_city,city,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority_county,county,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_district_city,city,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_district,district,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority_Wales,Unitary authority,A unitary authority city is a local authority for a place's borough which is responsible for all local government functions within its area or performs
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_COUNTRY,Country,A country.
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_County,County,A country or state.

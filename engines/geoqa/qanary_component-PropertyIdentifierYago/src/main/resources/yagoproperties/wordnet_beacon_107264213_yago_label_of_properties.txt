@@ -1,0 +1,10 @@
+hasLongitude , http://yago-knowledge.org/resource/hasLongitude
+isLocatedIn , http://yago-knowledge.org/resource/isLocatedIn
+hasWikipediaUrl , http://yago-knowledge.org/resource/hasWikipediaUrl
+hasCitationTitle , http://yago-knowledge.org/resource/hasCitationTitle
+redirectedFrom , http://yago-knowledge.org/resource/redirectedFrom
+wasCreatedOnDate , http://yago-knowledge.org/resource/wasCreatedOnDate
+hasLatitude , http://yago-knowledge.org/resource/hasLatitude
+hasWikipediaArticleLength , http://yago-knowledge.org/resource/hasWikipediaArticleLength
+hasWikipediaAnchorText , http://yago-knowledge.org/resource/hasWikipediaAnchorText
+linksTo , http://yago-knowledge.org/resource/linksTo

@@ -1,0 +1,2570 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.app-lab.eu/osm/ontology#"
+     xml:base="http://www.app-lab.eu/osm/ontology"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.app-lab.eu/osm/ontology"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#hasSuburb -->
+
+    <owl:ObjectProperty rdf:about="http://www.app-lab.eu/osm/ontology#hasSuburb">
+        <rdfs:domain rdf:resource="http://www.app-lab.eu/osm/ontology#City"/>
+        <rdfs:range rdf:resource="http://www.app-lab.eu/osm/ontology#Suburb"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#OSMCode -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#OSMCode"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#bridge -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#bridge">
+        <rdfs:domain rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+        <rdfs:range rdf:resource="&xsd;boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#id"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#maxspeed -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#maxspeed">
+        <rdfs:domain rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+        <rdfs:range rdf:resource="&xsd;integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#name"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#oneway -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#oneway">
+        <rdfs:domain rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+        <rdfs:range rdf:resource="&xsd;boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#osmID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#osmID"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#population -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#population"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#tunnel -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#tunnel">
+        <rdfs:domain rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+        <rdfs:range rdf:resource="&xsd;boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#width -->
+
+    <owl:DatatypeProperty rdf:about="http://www.app-lab.eu/osm/ontology#width">
+        <rdfs:domain rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ATM -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ATM">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Money"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Accommodation -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Accommodation">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#AerialwayStation -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#AerialwayStation">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Aglican -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Aglican">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Airfield -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Airfield">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Airport -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Airport">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Allotments -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Allotments">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#AlpineHut -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#AlpineHut">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Apron -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Apron">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Archaeological -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Archaeological">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Art -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Art">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ArtsCenter -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ArtsCenter">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Attraction -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Attraction">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#BIcycleShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#BIcycleShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Bakery -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Bakery">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Bank -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Bank">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Money"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Baptist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Baptist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Bar -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Bar">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Battlefield -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Battlefield">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Beach -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Beach">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#BeatyShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#BeatyShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#BedAndBreakfast -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#BedAndBreakfast">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Bench -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Bench">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Beverages -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Beverages">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#BicycleRental -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#BicycleRental">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Biergarten -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Biergarten">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Bookshop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Bookshop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Bridleway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Bridleway">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Path"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Buddhist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Buddhist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Building -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Building"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#BusStation -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#BusStation">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#BusStop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#BusStop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Butcher -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Butcher">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CableCar -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CableCar">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Cafe -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Cafe">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CameraSurveillance -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CameraSurveillance">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CampSite -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CampSite">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Canal -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Canal">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CarDealership -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CarDealership">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CarRental -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CarRental">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CarRepair -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CarRepair">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CarSharing -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CarSharing">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CarWash -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CarWash">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CaravanSite -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CaravanSite">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Castle -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Castle">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Catering -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Catering">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Catholic -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Catholic">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CaveEntrance -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CaveEntrance">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Cemetery -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Cemetery">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ChairLift -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ChairLift">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Chalet -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Chalet">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Chemist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Chemist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Christian -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Christian">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Church -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Church">
+        <owl:equivalentClass rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Cinema -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Cinema">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#City -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#City">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NationalCapital"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Cliff -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Cliff">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Clothes -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Clothes">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Club -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Club">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#College -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#College">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CommercialArea -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CommercialArea">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CommunicationTower -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CommunicationTower">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CommunityCentre -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CommunityCentre">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ComputerShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ComputerShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Convenienve -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Convenienve">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#County -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#County">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#CourtHouse -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#CourtHouse">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Crossing -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Crossing">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Cycleway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Cycleway">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Path"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Dam -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Dam">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Dentist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Dentist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Health"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#DepartmentStore -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#DepartmentStore">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#DoItYourselfShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#DoItYourselfShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Dock -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Dock">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#DoctorsOffice -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#DoctorsOffice">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Health"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#DogPark -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#DogPark">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#DragLift -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#DragLift">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Drain -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Drain">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#DrinkingWater -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#DrinkingWater">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Dwelling -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Dwelling">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Education -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Education">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Embassy -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Embassy">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#EmergencyAccess -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#EmergencyAccess">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#EmergencyPhone -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#EmergencyPhone">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Evangelical -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Evangelical">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Farm -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Farm">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#FastFood -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#FastFood">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#FerryTerminal -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#FerryTerminal">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#FireHydrant -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#FireHydrant">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#FireStation -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#FireStation">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Florist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Florist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#FoodCourt -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#FoodCourt">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Footway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Footway">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Path"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Ford -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Ford">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Forest -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Forest">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Fort -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Fort">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Fountain -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Fountain">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Fuel -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Fuel">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Funicular -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Funicular">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#FurnitureShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#FurnitureShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#GardenCenter -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#GardenCenter">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#GiftShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#GiftShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Glacier -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Glacier">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#GolfCourse -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#GolfCourse">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Gondola -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Gondola">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Goods -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Goods">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Grass -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Grass">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Graveyard -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Graveyard">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#GreenArea -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#GreenArea">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Greengrocer -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Greengrocer">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#GuestHouse -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#GuestHouse">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Gurudwara -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Gurudwara">
+        <owl:equivalentClass rdf:resource="http://www.app-lab.eu/osm/ontology#Sikh"/>
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#HairDresser -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#HairDresser">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Hamlet -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Hamlet">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Health -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Health">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#HealthArea -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#HealthArea">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Helipad -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Helipad">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#HighwayLink -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#HighwayLink">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Hindu -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Hindu">
+        <owl:equivalentClass rdf:resource="http://www.app-lab.eu/osm/ontology#Temple"/>
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Hospital -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Hospital">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Health"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Hostel -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Hostel">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Hotel -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Hotel">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#HundingStand -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#HundingStand">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#IceRink -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#IceRink">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Island -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Island">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Jewish -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Jewish">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Jewller -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Jewller">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Kindergarden -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Kindergarden">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Kiosk -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Kiosk">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#LIghtRail -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#LIghtRail">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#LandUse -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Laundry -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Laundry">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Leisure -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Leisure">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Library -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Library">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#LightHouse -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#LightHouse">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#LivingStreet -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#LivingStreet">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Locality -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Locality">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#LockGate -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#LockGate">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Lutheran -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Lutheran">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Mall -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Mall">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Marina -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Marina">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#MarketPlace -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#MarketPlace">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Meadow -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Meadow">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Memorial -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Memorial">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Methodist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Methodist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Military -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Military">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Mine -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Mine">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Miniature -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Miniature">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#MobilePhoneShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#MobilePhoneShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Money -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Money">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Monorail -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Monorail">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Monument -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Monument">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Mosque -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Mosque">
+        <owl:equivalentClass rdf:resource="http://www.app-lab.eu/osm/ontology#Muslim"/>
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Motel -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Motel">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#MotorwatJunction -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#MotorwatJunction">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Motorway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Motorway">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#MotorwayLink -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#MotorwayLink">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#HighwayLink"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Museum -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Museum">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Muslim -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Muslim">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NarrowGauge -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NarrowGauge">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NationalCapital -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NationalCapital">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NationalPark -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NationalPark">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NaturalFeature -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NatureReserve -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NatureReserve">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NewsAgent -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NewsAgent">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#NursingHome -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#NursingHome">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ObservationTower -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ObservationTower">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Optician -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Optician">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Orchard -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Orchard">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Orthodox -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Orthodox">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#OtherLift -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#OtherLift">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#OutdoorShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#OutdoorShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Park -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Park">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Parking -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Parking">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ParkingBicycle -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ParkingBicycle">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Parking"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ParkingMultistorey -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ParkingMultistorey">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Parking"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ParkingSite -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ParkingSite">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Parking"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Path -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Path">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Peak -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Peak">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Pedestrian -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Pedestrian">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Pharmacy -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Pharmacy">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Health"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PicnicDite -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PicnicDite">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Pier -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Pier">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Pitch -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Pitch">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Place -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Place"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PlaceofWorship -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Playground -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Playground">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PointOfInterest -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Police -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Police">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PostBox -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PostBox">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PostOffice -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PostOffice">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Primary -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Primary">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PrimaryLink -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PrimaryLink">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#HighwayLink"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Prison -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Prison">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Protestant -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Protestant">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Christian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Pub -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Pub">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#PublicBuilding -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#PublicBuilding">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Quarry -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Quarry">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Rack -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Rack">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Rail -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Rail">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Railway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Railway"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RailwayHalt -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RailwayHalt">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RailwayStation -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RailwayStation">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RecreationGround -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RecreationGround">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Recycling -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Recycling">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RecyclingClothes -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RecyclingClothes">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Recycling"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RecyclingGlass -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RecyclingGlass">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Recycling"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RecyclingMetal -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RecyclingMetal">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Recycling"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#RecyclingPaper -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#RecyclingPaper">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Recycling"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Region -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Region">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Reservoir -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Reservoir">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Residential -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Residential">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ResidentialArea -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ResidentialArea">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Restaurant -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Restaurant">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Catering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Retail -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Retail">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#LandUse"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#River -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#River">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Road -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Road"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Roundabout -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Roundabout">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Ruins -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Ruins">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#School -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#School">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Scrub -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Scrub">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Secondary -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Secondary">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#SecondaryLink -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#SecondaryLink">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#HighwayLink"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Service -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Service">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Shelter -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Shelter">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Shia -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Shia">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Muslim"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Shintoist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Shintoist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ShoeShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ShoeShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Shopping -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Shopping">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Sikh -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Sikh">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Slipway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Slipway">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#SpeedCamera -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#SpeedCamera">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#SportsCenter -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#SportsCenter">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#SportsShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#SportsShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Spring -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Spring">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Stadium -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Stadium">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Stationery -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Stationery">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Step -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Step">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Path"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#StopSignal -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#StopSignal">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Stream -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Stream">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#StreetLamp -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#StreetLamp">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Suburb -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Suburb">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Subway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Subway">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Sunni -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Sunni">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Muslim"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Supermarket -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Supermarket">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#SwimmingPool -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#SwimmingPool">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Taoist -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Taoist">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TaxiRank -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TaxiRank">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Telephone -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Telephone">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Temple -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Temple">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PlaceofWorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TennisCourt -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TennisCourt">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Tertiary -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Tertiary">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Theatre -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Theatre">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Leisure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ThemePark -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ThemePark">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Toilet -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Toilet">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Tourism -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Tourism">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TouristBoard -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TouristBoard">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TouristGuidepost -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TouristGuidepost">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TouristInfo -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TouristInfo">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TouristMap -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TouristMap">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Tower -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Tower">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Town -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Town">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TownHall -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TownHall">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#ToyShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#ToyShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Track -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Track">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#VerySmallRoad"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Traffic -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TrafficSignal -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TrafficSignal">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Tram -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Tram">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Railway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TramStop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TramStop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TransportInfrastructure -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TransportInfrastructure"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TravelAgent -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TravelAgent">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Tree -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Tree">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Trunk -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Trunk">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TrunkLink -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TrunkLink">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#HighwayLink"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#TurningCircle -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#TurningCircle">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#University -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#University">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#VendingCigarette -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#VendingCigarette">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#VendingMachine -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#VendingMachine">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#VendingParking -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#VendingParking">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#VerySmallRoad -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#VerySmallRoad">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Road"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Veterinary -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Veterinary">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Health"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#VideoShop -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#VideoShop">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Viewpoint -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Viewpoint">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Village -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Village">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Vineyard -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Vineyard">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#GreenArea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Volcano -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Volcano">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#NaturalFeature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WasteBasket -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WasteBasket">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WasteWaterPlant -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WasteWaterPlant">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WaterTower -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WaterTower">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WaterTraffic -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WaterTraffic">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Traffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WaterWell -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WaterWell">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WaterWorks -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WaterWorks">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Waterfall -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Waterfall">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Watermill -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Watermill">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Waterway -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WaysideCross -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WaysideCross">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WaysideShrine -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WaysideShrine">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Weir -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Weir">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#WaterTraffic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#WetLand -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#WetLand">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Waterway"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Windmill -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Windmill">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#PointOfInterest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#Zoo -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#Zoo">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Tourism"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#track_grade1 -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#track_grade1">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Track"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#track_grade2 -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#track_grade2">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Track"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#track_grade3 -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#track_grade3">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Track"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#track_grade4 -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#track_grade4">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Track"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.app-lab.eu/osm/ontology#track_grade5 -->
+
+    <owl:Class rdf:about="http://www.app-lab.eu/osm/ontology#track_grade5">
+        <rdfs:subClassOf rdf:resource="http://www.app-lab.eu/osm/ontology#Track"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+

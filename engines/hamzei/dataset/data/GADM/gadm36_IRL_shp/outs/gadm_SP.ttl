@@ -1,0 +1,84 @@
+@prefix ns1: <http://yago-knowledge.org/resource/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Carlow ns1:hasArea "1660641006.346489"^^xsd:float ;
+    ns1:hasLength "227067.6383594484"^^xsd:float .
+
+ns1:Cavan ns1:hasArea "3306301982.485316"^^xsd:float ;
+    ns1:hasLength "333992.52972123586"^^xsd:float .
+
+ns1:County_Clare ns1:hasArea "5381596151.281327"^^xsd:float ;
+    ns1:hasLength "865239.2074322315"^^xsd:float .
+
+ns1:County_Cork ns1:hasArea "12357292034.872135"^^xsd:float ;
+    ns1:hasLength "2012643.2087008397"^^xsd:float .
+
+ns1:County_Donegal ns1:hasArea "8392060470.60668"^^xsd:float ;
+    ns1:hasLength "2121032.098410804"^^xsd:float .
+
+ns1:County_Kerry ns1:hasArea "7303423098.294864"^^xsd:float ;
+    ns1:hasLength "1477734.5075901465"^^xsd:float .
+
+ns1:County_Kildare ns1:hasArea "2965083592.384247"^^xsd:float ;
+    ns1:hasLength "293780.3599863917"^^xsd:float .
+
+ns1:County_Kilkenny ns1:hasArea "3290912488.693159"^^xsd:float ;
+    ns1:hasLength "270811.31331377703"^^xsd:float .
+
+ns1:County_Laois ns1:hasArea "2694906672.8819065"^^xsd:float ;
+    ns1:hasLength "252797.28412735605"^^xsd:float .
+
+ns1:County_Leitrim ns1:hasArea "2582583288.138703"^^xsd:float ;
+    ns1:hasLength "303135.3576712397"^^xsd:float .
+
+ns1:County_Limerick ns1:hasArea "4345990587.154707"^^xsd:float ;
+    ns1:hasLength "426055.7007656124"^^xsd:float .
+
+ns1:County_Longford ns1:hasArea "1846480656.689096"^^xsd:float ;
+    ns1:hasLength "197079.27846872094"^^xsd:float .
+
+ns1:County_Louth ns1:hasArea "1487860011.326288"^^xsd:float ;
+    ns1:hasLength "365562.8646755991"^^xsd:float .
+
+ns1:County_Mayo ns1:hasArea "9381883589.939682"^^xsd:float ;
+    ns1:hasLength "2025558.7370286053"^^xsd:float .
+
+ns1:County_Meath ns1:hasArea "3676433036.0725555"^^xsd:float ;
+    ns1:hasLength "342424.98069119017"^^xsd:float .
+
+ns1:County_Monaghan ns1:hasArea "2260574690.105646"^^xsd:float ;
+    ns1:hasLength "263631.72999700834"^^xsd:float .
+
+ns1:County_Offaly ns1:hasArea "3110799180.810478"^^xsd:float ;
+    ns1:hasLength "384462.122411437"^^xsd:float .
+
+ns1:County_Roscommon ns1:hasArea "4238608865.68997"^^xsd:float ;
+    ns1:hasLength "402107.79382001184"^^xsd:float .
+
+ns1:County_Sligo ns1:hasArea "3164791303.3976636"^^xsd:float ;
+    ns1:hasLength "605737.3983223421"^^xsd:float .
+
+ns1:County_Tipperary ns1:hasArea "7218360032.090666"^^xsd:float ;
+    ns1:hasLength "487967.41431288485"^^xsd:float .
+
+<http://yago-knowledge.org/resource/County_Waterford.> ns1:hasArea "2967115062.8441463"^^xsd:float ;
+    ns1:hasLength "436741.3490138233"^^xsd:float .
+
+ns1:County_Westmeath ns1:hasArea "3128027787.8220134"^^xsd:float ;
+    ns1:hasLength "275000.6626766454"^^xsd:float .
+
+ns1:County_Wexford ns1:hasArea "3626699646.775656"^^xsd:float ;
+    ns1:hasLength "501985.53639600717"^^xsd:float .
+
+ns1:County_Wicklow ns1:hasArea "3104236626.1749053"^^xsd:float ;
+    ns1:hasLength "305349.5922431801"^^xsd:float .
+
+ns1:Dublin ns1:hasArea "1471357614.3381393"^^xsd:float ;
+    ns1:hasLength "389408.18944559776"^^xsd:float .
+
+ns1:Galway ns1:hasArea "10295468019.578873"^^xsd:float ;
+    ns1:hasLength "2002893.2632186606"^^xsd:float .
+
+ns1:Republic_of_Ireland ns1:hasArea "115259487105.26442"^^xsd:float ;
+    ns1:hasLength "11402279.944981862"^^xsd:float .
+

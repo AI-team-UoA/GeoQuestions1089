@@ -1,0 +1,2109 @@
+[
+  {
+    "value": "allotments",
+    "count": 15232,
+    "fraction": 0.003,
+    "in_wiki": true,
+    "description": "A separate settlement, which is located outside an officially inhabited locality and has its own addressing",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "archipelago",
+    "count": 659,
+    "fraction": 1.0E-4,
+    "in_wiki": true,
+    "description": "Describes to which archipelago an island or islet belongs.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "area",
+    "count": 35,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "atoll",
+    "count": 83,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "borough",
+    "count": 1290,
+    "fraction": 3.0E-4,
+    "in_wiki": true,
+    "description": "A part in larger city grouped into administrative unit.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "city",
+    "count": 19301,
+    "fraction": 0.0038,
+    "in_wiki": true,
+    "description": "The largest urban settlement or settlements within the territory.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "continent",
+    "count": 8,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "description": "One of the seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "country",
+    "count": 225,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "description": "A nation state or other high-level national political/administrative area.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "county",
+    "count": 8348,
+    "fraction": 0.0017,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "district",
+    "count": 1388,
+    "fraction": 3.0E-4,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "farm",
+    "count": 82590,
+    "fraction": 0.0164,
+    "in_wiki": true,
+    "description": "An individually named farm.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "hamlet",
+    "count": 1185706,
+    "fraction": 0.2361,
+    "in_wiki": true,
+    "description": "A smaller rural community, typically with fewer than 100-200 inhabitants, and few infrastructure.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "island",
+    "count": 154138,
+    "fraction": 0.0307,
+    "in_wiki": true,
+    "description": "Any piece of land that is completely surrounded by water and isolated from other significant landmasses.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "islet",
+    "count": 192431,
+    "fraction": 0.0383,
+    "in_wiki": true,
+    "description": "A very small island.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "locality",
+    "count": 1299002,
+    "fraction": 0.2586,
+    "in_wiki": true,
+    "description": "A named place that has no population.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "municipality",
+    "count": 2750,
+    "fraction": 5.0E-4,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "neighbourhood",
+    "count": 157598,
+    "fraction": 0.0314,
+    "in_wiki": true,
+    "description": "A neighbourhood is a smaller named, geographically localised place within a suburb of a larger city or within a town or village",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "ocean",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "description": "The world\u0027s five main major oceanic divisions.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "plot",
+    "count": 95130,
+    "fraction": 0.0189,
+    "in_wiki": true,
+    "description": "A named plot is a tract or parcel of land owned or meant to be owned by some owner.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "province",
+    "count": 242,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "quarter",
+    "count": 7571,
+    "fraction": 0.0015,
+    "in_wiki": true,
+    "description": "A quarter is a named, geographically localised place within a suburb of a larger city or within a town which is bigger than a neighbourhood",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "region",
+    "count": 3209,
+    "fraction": 6.0E-4,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "sea",
+    "count": 136,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "description": "A part of an ocean.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "shieling",
+    "count": 13,
+    "fraction": 0.0,
+    "in_wiki": true,
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "square",
+    "count": 15736,
+    "fraction": 0.0031,
+    "in_wiki": true,
+    "description": "A named square.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "state",
+    "count": 2051,
+    "fraction": 4.0E-4,
+    "in_wiki": true,
+    "description": "A large sub-national political/administrative area.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "suburb",
+    "count": 120182,
+    "fraction": 0.0239,
+    "in_wiki": true,
+    "description": "A part of a town or city with a well-known name and often a distinct identity.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "town",
+    "count": 105041,
+    "fraction": 0.0209,
+    "in_wiki": true,
+    "description": "An important urban centre, between a village and a city in size.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "village",
+    "count": 1216983,
+    "fraction": 0.2423,
+    "in_wiki": true,
+    "description": "A smaller distinct settlement, smaller than a town with few facilities available with people traveling to nearby towns to access these.",
+    "desclang": "en",
+    "descdir": "ltr"
+  },
+  {
+    "value": "AGA",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Abandoned",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Area",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Baga",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Barangay",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Beach",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Bing",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Casablanca",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Community",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Dana",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "District",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "FARM",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Fair",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Fairground",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Farm",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Gobio",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Hamlet",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Heredia",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "House",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Inhabited",
+    "count": 6,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Island",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Lehi",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Locality",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Lookout",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Madagascar",
+    "count": 10,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Madiga",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Mag",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Maga",
+    "count": 6,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Meringue",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "NULL",
+    "count": 33,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Neighbourhood",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Obstacle",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Overlook",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "PAU",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "POPAL",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Platt",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Plot",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Podium",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Port",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Quarter",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Region",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "SAGO",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Subdistrict",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Tehsil",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Voisinage",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "Wayne",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "abandoned",
+    "count": 17,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "apartment",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "arm",
+    "count": 6,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "arrondissement",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "barn",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "bay",
+    "count": 28,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "beach",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "block",
+    "count": 1245,
+    "fraction": 2.0E-4,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "building",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "bunker",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "business",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "camp",
+    "count": 21,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "cape",
+    "count": 45,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "cave",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "cay",
+    "count": 8,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "cemetery",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "clearance",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "climbing",
+    "count": 9,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "club",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "coastline",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "common",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "community",
+    "count": 101,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "comunidad",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "confluence",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "corner",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "cottages",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "countryside",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "creek",
+    "count": 32,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "croft",
+    "count": 82,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "crowded",
+    "count": 21,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "debe",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "delta",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "department",
+    "count": 352,
+    "fraction": 1.0E-4,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "dolina",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "estate",
+    "count": 4,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "factory",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "fam",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "far",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "farmhouse",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "farmland",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "farmyard",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "fell",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "field",
+    "count": 147,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "flat",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "flyover",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "forester",
+    "count": 13,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "garages",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "govt",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "hal",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "ham",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "hamli",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "harbour",
+    "count": 14,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "hermitage",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "hill",
+    "count": 15,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "historic",
+    "count": 40,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "historical",
+    "count": 10,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "hollow",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "home",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "homestead",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "houses",
+    "count": 14,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "housing",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "hut",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "ido",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "informal",
+    "count": 11,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "inland",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "inlet",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "intersection",
+    "count": 4,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "isl",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "islands",
+    "count": 10,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "isled",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "islets",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "iso",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "isolate",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "isolated",
+    "count": 4,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "junction",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "lac",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "lake",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "land",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "landmark",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "lease",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "loc",
+    "count": 30,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "local",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "location",
+    "count": 8,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "memorial",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "moor",
+    "count": 14,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "mound",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "museum",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "natu",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "natural",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "nei",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "neighborhood",
+    "count": 10,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "obsolete",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "office",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "parish",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "park",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "peak",
+    "count": 9,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "peninsula",
+    "count": 197,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "picknick",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "pier",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "pike",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "pit",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "place",
+    "count": 9,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "plateau",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "plaza",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "point",
+    "count": 6,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "polder",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "port",
+    "count": 4,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "prefecture",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "private",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "promontory",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "property",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "quarry",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "raceway",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "railway",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "ranch",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "reef",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "residence",
+    "count": 36,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "residential",
+    "count": 7,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "rock",
+    "count": 33,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "roof",
+    "count": 4,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "ruin",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "ruins",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "rural",
+    "count": 15,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "saddle",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "settlement",
+    "count": 41,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "shire",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "shoal",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "site",
+    "count": 6,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "skerry",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "stable",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "station",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "stockyard",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "stud",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "subdistrict",
+    "count": 340,
+    "fraction": 1.0E-4,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "subdivision",
+    "count": 836,
+    "fraction": 2.0E-4,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "subregion",
+    "count": 26,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "suburban",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "surface",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "territory",
+    "count": 17,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "township",
+    "count": 400,
+    "fraction": 1.0E-4,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "track",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "unclassified",
+    "count": 4,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "undefined",
+    "count": 5,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "unincorporated",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "uninhabited",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "union",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "valley",
+    "count": 32,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "vicinity",
+    "count": 8,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "vineyard",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "wall",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "ward",
+    "count": 163,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "warehouse",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "wetland",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "wharf",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "winery",
+    "count": 1,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "wood",
+    "count": 3,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "woodland",
+    "count": 54,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "yard",
+    "count": 2,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "yes",
+    "count": 1620,
+    "fraction": 3.0E-4,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  },
+  {
+    "value": "zone",
+    "count": 27,
+    "fraction": 0.0,
+    "in_wiki": false,
+    "description": "",
+    "desclang": "",
+    "descdir": ""
+  }
+]

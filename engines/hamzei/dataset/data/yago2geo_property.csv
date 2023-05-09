@@ -1,0 +1,14 @@
+class,label,gloss
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_ID,id,The unique identifier
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Name,name,"Place name, toponym, name, label"
+http://www.opengis.net/ont/geosparql#hasGeometry,location,"The location of a place, the geometry of a place"
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_ID,id,The unique identifier
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name,name,"Place name, toponym, name, label"
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_ID,id,The unique identifier
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name,name,"Place name, toponym, name, label"
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_NationalLevel,division level,The division level which the place belongs to
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_ID,id,The unique identifier
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name,name,"Place name, toponym, name, label"
+http://kr.di.uoa.gr/yago2geo/ontology/hasOS_Name,name,"Place name, toponym, name, label"
+http://kr.di.uoa.gr/yago2geo/ontology/hasOS_ID,id,The unique identifier
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Description,description,The description of a place or geographical entity

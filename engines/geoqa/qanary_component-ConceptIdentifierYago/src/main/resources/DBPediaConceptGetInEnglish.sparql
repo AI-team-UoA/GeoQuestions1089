@@ -1,0 +1,12 @@
+ 				  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>  
+				   PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+				   PREFIX dbo: <http://dbpedia.org/ontology/>
+				   PREFIX owl: <http://www.w3.org/2002/07/owl#>
+				   SELECT DISTINCT ?type (STR(?label) as ?strlabel)
+				   FROM <http://dbpedia.org>
+				   WHERE { 
+				    
+							?type a owl:Class .
+							?type rdfs:label ?label .
+				   	 		FILTER langMatches(lang(?label),'en').
+				   }

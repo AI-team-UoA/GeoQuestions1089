@@ -1,0 +1,11 @@
+http://www.opengis.net/ont/geosparql#sfTouches , Touches
+http://www.opengis.net/ont/geosparql#sfWithin , Within
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Perimeter , OSNI Perimeter
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_ID , OSI ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Name , OSNI Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name , OSI Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_ID , OSNI ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Area , OSNI Area
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_ID , OSM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name , OSM Name
+strdf:area, area

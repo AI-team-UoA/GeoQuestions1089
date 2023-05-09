@@ -1,0 +1,34 @@
+queries:
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?subject ?r ?o
+WHERE {
+  <http://yago-knowledge.org/resource/> ?r ?o
+}
+LIMIT 25
+
+query2:
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?labels
+WHERE {
+  <http://yago-knowledge.org/resource/> rdfs:label ?labels
+}
+LIMIT 25
+
+query3:
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?s
+WHERE {
+  ?s rdfs:label ?labels
+  FILTER regex(?label, "Ards_and_North_Down") 
+}
+LIMIT 1

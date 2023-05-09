@@ -1,0 +1,21 @@
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_ID , OSNI ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOS_ID , OS ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Description , GADM Description
+http://www.opengis.net/ont/geosparql#sfWithin , Within
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name , GADM Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_ID , OSI ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Perimeter , OSNI Perimeter
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_UpperLevelUnit , GADM UpperLevelUnit
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_NationalLevel , GADM NationalLevel
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Population , GAG Population
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_ID , OSM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasOS_Name , OS Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_ID , GADM ID
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_ID , GAG ID
+http://kr.di.uoa.gr/yago2geo/ontology/GAG_BelongsTo , GAG BelongsTo
+http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Name , GAG Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name , OSM Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Name , OSNI Name
+http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name , OSI Name
+http://www.opengis.net/ont/geosparql#sfTouches , Touches
+strdf:area, area

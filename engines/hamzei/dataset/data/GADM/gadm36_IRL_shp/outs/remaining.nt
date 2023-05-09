@@ -1,0 +1,26 @@
+<http://www.app-lab.eu/gadm/Carlow_IRL.1_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/Carlow> .
+<http://www.app-lab.eu/gadm/Cavan_IRL.2_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/Cavan> .
+<http://www.app-lab.eu/gadm/Clare_IRL.3_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Clare> .
+<http://www.app-lab.eu/gadm/Cork_IRL.4_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Cork> .
+<http://www.app-lab.eu/gadm/Donegal_IRL.5_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Donegal> .
+<http://www.app-lab.eu/gadm/Dublin_IRL.6_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/Dublin> .
+<http://www.app-lab.eu/gadm/Galway_IRL.7_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/Galway> .
+<http://www.app-lab.eu/gadm/Kerry_IRL.8_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Kerry> .
+<http://www.app-lab.eu/gadm/Kildare_IRL.9_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Kildare> .
+<http://www.app-lab.eu/gadm/Kilkenny_IRL.10_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Kilkenny> .
+<http://www.app-lab.eu/gadm/Laoighis_IRL.11_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Laois> .
+<http://www.app-lab.eu/gadm/Leitrim_IRL.12_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Leitrim> .
+<http://www.app-lab.eu/gadm/Limerick_IRL.13_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Limerick> .
+<http://www.app-lab.eu/gadm/Longford_IRL.14_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Longford> .
+<http://www.app-lab.eu/gadm/Louth_IRL.15_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Louth> .
+<http://www.app-lab.eu/gadm/Mayo_IRL.16_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Mayo> .
+<http://www.app-lab.eu/gadm/Meath_IRL.17_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Meath> .
+<http://www.app-lab.eu/gadm/Monaghan_IRL.18_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Monaghan> .
+<http://www.app-lab.eu/gadm/Offaly_IRL.19_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Offaly> .
+<http://www.app-lab.eu/gadm/Roscommon_IRL.20_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Roscommon> .
+<http://www.app-lab.eu/gadm/Sligo_IRL.21_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Sligo> .
+<http://www.app-lab.eu/gadm/Tipperary_IRL.22_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Tipperary>
+<http://www.app-lab.eu/gadm/Waterford_IRL.23_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Waterford>.
+<http://www.app-lab.eu/gadm/Westmeath_IRL.24_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Westmeath> .
+<http://www.app-lab.eu/gadm/Wexford_IRL.25_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Wexford> .
+<http://www.app-lab.eu/gadm/Wicklow_IRL.26_1> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/County_Wicklow> .

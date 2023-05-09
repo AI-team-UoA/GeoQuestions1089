@@ -1,0 +1,4 @@
+What is the population of Nikaia-Agios Ioannis Rentis?
+
+What is the population of Nikaia Agios Ioannis Rentis?
+select ?property where { <http://yago-knowledge.org/resource/Nikaia-Agios_Ioannis_Rentis> <http://kr.di.uoa.gr/yago2geo/ontology/hasGAG_Population> ?property. } 

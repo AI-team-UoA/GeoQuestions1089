@@ -1,0 +1,42 @@
+Airport, http://yago-knowledge.org/resource/wordnet_airport_102692232
+Bank, http://yago-knowledge.org/resource/wordnet_bank_109213434
+Building, http://yago-knowledge.org/resource/wordnet_building_102913152
+Castle, http://yago-knowledge.org/resource/wordnet_palace_103878066
+Cemetery, http://yago-knowledge.org/resource/wordnet_cemetery_108521623
+Ceremonial county,http://yago-knowledge.org/resource/wikicat_Ceremonial_counties
+Church, http://yago-knowledge.org/resource/wordnet_church_103028079
+College, http://yago-knowledge.org/resource/wordnet_college_108278169
+Dam, http://yago-knowledge.org/resource/wordnet_dam_103160309
+Glacier, http://yago-knowledge.org/resource/wordnet_glacier_109289331
+Golf course, http://yago-knowledge.org/resource/wordnet_golf_course_103446528
+Hospital, http://yago-knowledge.org/resource/wordnet_hospital_103540595
+Highway, http://yago-knowledge.org/resource/wordnet_highway_103519981
+Hotel, http://yago-knowledge.org/resource/wordnet_hotel_103542333
+Library, http://yago-knowledge.org/resource/wordnet_library_103660909
+Lighthouse, http://yago-knowledge.org/resource/wordnet_beacon_107264213
+Memorial, http://yago-knowledge.org/resource/wordnet_memorial_103743902
+Mine, http://yago-knowledge.org/resource/wordnet_mine_103768346
+Monument, http://yago-knowledge.org/resource/wordnet_monument_108600443
+Mosque, http://yago-knowledge.org/resource/wordnet_mosque_103788195
+Museum, http://yago-knowledge.org/resource/wordnet_museum_103800563
+National park, http://yago-knowledge.org/resource/wordnet_national_park_108600992
+Prison, http://yago-knowledge.org/resource/wordnet_prison_104005630
+Railway station, http://yago-knowledge.org/resource/wordnet_railway_station_104049098
+Restaurant, http://yago-knowledge.org/resource/wordnet_restaurant_104081281
+River, http://yago-knowledge.org/resource/wordnet_river_109411430
+Road, http://yago-knowledge.org/resource/wordnet_road_100174003
+Settlement, http://yago-knowledge.org/resource/wordnet_settlement_108672562
+School, http://yago-knowledge.org/resource/wordnet_school_104146050
+Stadium, http://yago-knowledge.org/resource/wordnet_stadium_104295881
+State, http://yago-knowledge.org/resource/wikicat_States_of_the_United_States
+Temple, http://yago-knowledge.org/resource/wordnet_temple_105602683
+Theatre, http://yago-knowledge.org/resource/wordnet_theater_104417809
+Tower, http://yago-knowledge.org/resource/wordnet_tower_104460130
+University, http://yago-knowledge.org/resource/wordnet_university_108286163
+Volcano, http://yago-knowledge.org/resource/wordnet_volcano_109472597
+Water tower, http://yago-knowledge.org/resource/wordnet_water_tower_104562935
+Waterfall, http://yago-knowledge.org/resource/wordnet_waterfall_109475292
+Watermill, http://yago-knowledge.org/resource/wordnet_water_mill_104561422
+Windmill, http://yago-knowledge.org/resource/wordnet_windmill_104587559
+Mountain, http://yago-knowledge.org/resource/wordnet_mountain_109359803
+Bridge, http://yago-knowledge.org/resource/wordnet_bridge_102898711

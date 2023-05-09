@@ -1,0 +1,54 @@
+{
+  "area": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasArea",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasHeight",
+    "http://yago-knowledge.org/resource/hasArea",
+    "http://yago-knowledge.org/resource/hasHeight"
+  ],
+  "south": [],
+  "Nelson": [],
+  "elevation": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasHeight",
+    "http://yago-knowledge.org/resource/hasLongitude",
+    "http://yago-knowledge.org/resource/hasHeight"
+  ],
+  "name": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOS_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name",
+    "http://www.w3.org/2000/01/rdf-schema#label"
+  ],
+  "capacity": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasCapacity"
+  ],
+  "sea level": [],
+  "terms": [],
+  "Welsh": [],
+  "length": [
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "http://yago-knowledge.org/resource/hasHeight",
+    "http://yago-knowledge.org/resource/hasLength",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasHeight",
+    "http://yago-knowledge.org/resource/hasNeighbor"
+  ],
+  "population": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasPopulation",
+    "http://yago-knowledge.org/resource/hasNumberOfPeople"
+  ],
+  "people": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOS_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name",
+    "http://www.w3.org/2000/01/rdf-schema#label"
+  ],
+  "height": [
+    "http://yago-knowledge.org/resource/hasLength",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasHeight",
+    "http://yago-knowledge.org/resource/hasHeight"
+  ],
+  "Column": []
+}

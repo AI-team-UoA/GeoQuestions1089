@@ -1,0 +1,8 @@
+<http://www.app-lab.eu/gadm/North_Down_and_Ards_GBR.2.11_1> North Down and Ards
+<http://www.app-lab.eu/gadm/Bath_and_North_East_Somerset_GBR.1.2.1_1> Bath and North East Somerset
+<http://www.app-lab.eu/gadm/Brighton_and_Hove_GBR.1.11.1_1> Brighton and Hove
+<http://www.app-lab.eu/gadm/Cheshire_West_and_Chester_GBR.1.19.1_1> Cheshire West and Chester
+<http://www.app-lab.eu/gadm/Rother_GBR.1.32.4_1> Rother
+<http://www.app-lab.eu/gadm/Redcar_and_Cleveland_GBR.1.75.1_1> Redcar and Cleveland
+<http://www.app-lab.eu/gadm/Telford_and_Wrekin_GBR.1.101.1_1> Telford and Wrekin
+<http://www.app-lab.eu/gadm/Argyll_and_Bute_GBR.3.4.1_1> Argyll and Bute

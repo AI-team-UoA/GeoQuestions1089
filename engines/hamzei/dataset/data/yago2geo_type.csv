@@ -1,0 +1,53 @@
+class,label,gloss
+http://kr.di.uoa.gr/yago2geo/ontology/OS_UnitaryAuthorityWard,unitary authority ward,An electoral division in the level of borough
+http://kr.di.uoa.gr/yago2geo/ontology/OS_UnitaryAuthority,unitary authority,A unitary authority is a local authority for a place's borough which is responsible for all local government functions within its area or performs additional functions which elsewhere in the relevant country are usually performed by national government or a higher level of sub-national government. 
+http://kr.di.uoa.gr/yago2geo/ontology/OS_MetropolitanDistrictWard,metropolitan district ward,An electoral division in the level of metropolitan county.
+http://kr.di.uoa.gr/yago2geo/ontology/OS_MetropolitanDistrict,metropolitan district,"A metropolitan borough is a type of local government district in England, and is a subdivision of a metropolitan county."
+http://kr.di.uoa.gr/yago2geo/ontology/OS_LondonBoroughWard,london borough ward,An electoral division in the level of london borough
+http://kr.di.uoa.gr/yago2geo/ontology/OS_LondonBorough,london borough,The London boroughs are the 32 local authority districts that make up the ceremonial county of Greater London; each is governed by a London borough council.
+http://kr.di.uoa.gr/yago2geo/ontology/OS_GreaterLondonAuthority,greater london authority,The Greater London Authority (GLA) is a top-tier administrative body responsible for the strategic administration of Greater London.
+http://kr.di.uoa.gr/yago2geo/ontology/OS_EuropeanRegion,european region,"The United Nations Geoscheme divides Europe into 4 subregions: Eastern Europe, Western Europe, Northern Europe, and Southern Europe."
+http://kr.di.uoa.gr/yago2geo/ontology/OS_DistrictWard,district ward,An electoral division in the level of district
+http://kr.di.uoa.gr/yago2geo/ontology/OS_District,district,"An area of a country or city, especially one characterized by a particular feature or activity."
+http://kr.di.uoa.gr/yago2geo/ontology/OS_County,county,"A territorial division of some countries, forming the chief unit of local administration."
+http://kr.di.uoa.gr/yago2geo/ontology/OS_CivilParishorCommunity,civil parish or community,"In England, a civil parish is a type of administrative parish used for local government."
+http://kr.di.uoa.gr/yago2geo/ontology/OS_COMMUNITYWARD,community ward,An electoral division in the level of community
+http://kr.di.uoa.gr/yago2geo/ontology/OS_COMMUNITY,community,A group of houses in a locality.
+http://kr.di.uoa.gr/yago2geo/ontology/OS_AdministrativeUnit,administrative unit,"Administrative division, administrative unit, country subdivision, administrative region, subnational entity, first-level subdivision, as well as many similar terms, are generic names for geographical areas into which a particular, independent sovereign state is divided."
+http://kr.di.uoa.gr/yago2geo/ontology/OSNI_Ward,ward,Ward is a electoral division.
+http://kr.di.uoa.gr/yago2geo/ontology/OSNI_Townland,townland,a small territorial division of land.
+http://kr.di.uoa.gr/yago2geo/ontology/OSNI_LocalGovermentDistrict,local government district,A local government area (LGA) is an administrative division of a country that a local government is responsible for.
+http://kr.di.uoa.gr/yago2geo/ontology/OSNI_Country,country,"a nation with its own government, occupying a particular territory."
+http://kr.di.uoa.gr/yago2geo/ontology/OSNI_AdministrativeUnit,administrative unit,"Administrative division, administrative unit, country subdivision, administrative region, subnational entity, first-level subdivision, as well as many similar terms, are generic names for geographical areas into which a particular, independent sovereign state is divided."
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_Townland,townland,a small territorial division of land.
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_Rural_Area,rural area,"A rural area is an open swath of land that has few homes or other buildings, and not very many people."
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_County_Council,county council,A county council is an organization which runs local government in a county in Britain.
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_Civil_Parish,civil parish,"In England, a civil parish is a type of administrative parish used for local government."
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_City_Council,city council,A county council is an organization which runs local government in a county in Britain.
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_City_And_County_Council,city and county council,A county council is an organization which runs local government in a county in Britain.
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_Barony,barony,a division of a county.
+http://kr.di.uoa.gr/yago2geo/ontology/IRL_AdministrativeUnit,administrative unit,"Administrative division, administrative unit, country subdivision, administrative region, subnational entity, first-level subdivision, as well as many similar terms, are generic names for geographical areas into which a particular, independent sovereign state is divided."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_village,village,"a group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_town,town,"a built-up area with a name, defined boundaries, and local government, that is larger than a village and generally smaller than a city."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_stream,stream,"a small, narrow river."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_reservoir,reservoir,a large natural or artificial lake used as a source of water supply.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_park,park,a large public garden or area of land used for recreation.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_oxbow,oxbow,a loop formed by a horseshoe bend in a river.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_nature_reserve,nature reserve,"a tract of land managed so as to preserve its flora, fauna, and physical features."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_locality,locality,an area or neighbourhood.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake,lake,a large area of water surrounded by land.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_lagoon,lagoon,a stretch of salt water separated from the sea by a low sandbank or coral reef.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_island,island,a piece of land surrounded by water.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_forest,forest,a large area covered chiefly with trees and undergrowth.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_city,city,a large town.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_canal,canal,an artificial waterway constructed to allow the passage of boats or ships inland or to convey water for irrigation.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_beach,beach,"a pebbly or sandy shore, especially by the sea between high- and low-water marks."
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_bay,bay,a broad inlet of the sea where the land curves inwards.
+http://kr.di.uoa.gr/yago2geo/ontology/OSM_Feature,feature,a general category for geographic places
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_AdministrativeUnit,administrative unit,"Administrative division, administrative unit, country subdivision, administrative region, subnational entity, first-level subdivision, as well as many similar terms, are generic names for geographical areas into which a particular, independent sovereign state is divided."
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_6thOrder_AdministrativeUnit,sixth order administrative unit,Sixth level of administrative levels including local government areas
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_5thOrder_AdministrativeUnit,fifth order administrative unit,Fifth level of administrative levels including cities
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_4thOrder_AdministrativeUnit,fourth order administrative unit,Fourth level of administrated levels including districts
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_3rdOrder_AdministrativeUnit,third order administrative unit,Third level of administrative level such as metropolitan cities
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_2ndOrder_AdministrativeUnit,second order administrative unit,second largest administrative level such as counties
+http://kr.di.uoa.gr/yago2geo/ontology/GADM_1stOrder_AdministrativeUnit,first order administrative unit,"largest administrative divisions are: states, federated states, provinces, lands, oblasts, governorates, cantons, prefectures, regions, departments, and emirates."
