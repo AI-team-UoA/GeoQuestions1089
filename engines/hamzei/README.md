@@ -48,10 +48,3 @@ To generate answers, we used Apache GeoSARQL Fuseki and loaded Yago2, Yago2Geo a
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
-
-## Οδηγίες
-
-1. Τρέχεις το `query_generator_service.py` αφού πρώτα του έχεις δώσει IP address.
-2. Τρέχεις το `geoparser.py` δίνοντας την IP address του προηγούμενου βηματος επειδή εκείνο το component κάνει τα queries executable.
-
-SOLR είναι στημμένο από τον Hamzei, Fuseki δεν χρειάζεται. Αν πέσει του Hamzei πρέπει να στήσεις δικό σου χρησιμοποιώντας το `solr_index`.
