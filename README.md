@@ -23,6 +23,9 @@ It has been used to benchmark two state of the art Question Answering engines, [
     <a href="https://zenodo.org/records/12608652">
         <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAK-uwBxBpzUwAn0h83ylpHqZAPv_gRTtIg&s" width=200/>
     </a>
+    <a href="https://www.kaggle.com/datasets/sergioskef/geoquestions1089/">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" width=180/>
+    </a>
 </div>
 
 ## Repository information
