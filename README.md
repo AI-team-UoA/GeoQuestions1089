@@ -224,6 +224,10 @@ PREFIX uom: <http://www.opengis.net/def/uom/OGC/1.0/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 ```
 
+### Knowledge Graph data:
+
+You can download the complete YAGO2+YAGO2geo knowledge graph, with the materialized relations, [here](https://yago2geo.di.uoa.gr/data/yago2_plus_geo.zip).
+
 ## Team & Authors
 
 <img align="right" src="https://github.com/AI-team-UoA/.github/blob/main/AI_LOGO.png?raw=true" alt="ai-team-uoa" width="200"/>
