@@ -232,7 +232,7 @@ You can download the complete YAGO2+YAGO2geo knowledge graph, with the materiali
 
 <img align="right" src="https://github.com/AI-team-UoA/.github/blob/main/AI_LOGO.png?raw=true" alt="ai-team-uoa" width="200"/>
 
-- [Sergios-Anestis Kefalidis](http://users.uoa.gr/~sdi1800073/), Research Associate at the University of Athens, Greece
+- [Sergios-Anestis Kefalidis](http://users.uoa.gr/~skefalidis/), Research Associate at the University of Athens, Greece
 - [Dharmen Punjani](https://www.linkedin.com/in/dharmen-punjani-0162ba38/), Research Associate at Université Jean Monnet Saint-Etienne, France
 - [Eleni Tsalapati](https://www.linkedin.com/in/eleni-tsalapati-687078129/), Senior Researcher at the University of Athens, Greece
 - [Kostas Plas](https://www.madgik.di.uoa.gr/el/people/msc-student/kplas), Research Associate at the University of Athens, Greece
